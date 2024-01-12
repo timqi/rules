@@ -1,0 +1,10 @@
+# https://wiki.metacubex.one/config/#_11
+payload:
+- +.in-addr.arpa
+- +.cn
+- +.qq.com
+- +.windows.com
+- +.office.com
+- +.live.com
+- +.bilibili.com
+- +.bilivideo.com

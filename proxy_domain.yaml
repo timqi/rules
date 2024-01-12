@@ -1,0 +1,8 @@
+# https://wiki.metacubex.one/config/#_11
+payload:
+- +.bing.com
+- +.linkedin.com
+- +.twitter.com
+- +.github.com
+- +.stackoverflow.com
+- +.testflight.apple.com
