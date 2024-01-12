@@ -1,5 +1,7 @@
 # https://wiki.metacubex.one/config/#_11
 payload:
+- +.btc.com
+- +.mempool.space
 - +.google.com
 - +.tradingview.com
 - +.bing.com
