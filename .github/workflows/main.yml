@@ -27,17 +27,26 @@ jobs:
         run: |
           python script/rule_convert.py
 
-      - name: Commit and push changes
+      - name: Check for changes
+        id: changes
+        run: |
+          git add .
+          if git diff-index --quiet HEAD; then
+            echo "No changes detected"
+            echo "::set-output name=changes::false"
+          else
+            echo "Changes detected"
+            echo "::set-output name=changes::true"
+          fi
+
+      - name: Commit changes
+        if: steps.changes.outputs.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m 'Update auto rules'
-          if [ $? -eq 0 ]; then
-            echo "Commit successful. Pushing to repository..."
-            git push origin HEAD:main
-          else
-            echo "Commit failed. Aborting push."
-          fi
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Automated commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
