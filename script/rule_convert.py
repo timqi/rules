@@ -4,7 +4,7 @@ import aiohttp
 import yaml
 
 
-async def mihomo2quanx(url, path):
+async def mihomo2quanx(url, path, proxy):
     async with aiohttp.ClientSession() as s:
         async with s.get(url) as resp:
             text = await resp.text()
@@ -12,13 +12,13 @@ async def mihomo2quanx(url, path):
     results = []
     for r in rules:
         if r.startswith("+."):
-            results.append(f"host-suffix, {r[2:]}, crypto")
+            results.append(f"host-suffix, {r[2:]}, {proxy}")
         elif "*" in r:
-            results.append(f"host-wildcard, {r}, crypto")
+            results.append(f"host-wildcard, {r}, {proxy}")
         elif r.startswith("."):
-            results.append(f"host-suffix, {r[1:]}, crypto")
+            results.append(f"host-suffix, {r[1:]}, {proxy}")
         else:
-            results.append(f"host, {r}, crypto")
+            results.append(f"host, {r}, {proxy}")
 
     with open(path, "w") as f:
         f.write("\n".join(results))
@@ -29,9 +29,12 @@ async def main():
     await mihomo2quanx(
         "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-cryptocurrency.yaml",
         "quanx_crypto.list",
+        "crypto",
     )
     await mihomo2quanx(
-        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml", "quanx_openai.list"
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml",
+        "quanx_openai.list",
+        "us",
     )
 
 
