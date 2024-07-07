@@ -1,6 +1,7 @@
-import yaml
-import aiohttp
 import asyncio
+
+import aiohttp
+import yaml
 
 
 async def mihomo2quanx(url, path):
@@ -24,8 +25,15 @@ async def mihomo2quanx(url, path):
     print(f"{path} written")
 
 
-if __name__ == "__main__":
-    crypto_url = (
-        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-cryptocurrency.yaml"
+async def main():
+    await mihomo2quanx(
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-cryptocurrency.yaml",
+        "quanx_crypto.list",
     )
-    asyncio.run(mihomo2quanx(crypto_url, "quanx_crypto.list"))
+    await mihomo2quanx(
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml", "quanx_openai.list"
+    )
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
