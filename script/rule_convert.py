@@ -36,6 +36,11 @@ async def main():
         "quanx_openai.list",
         "us",
     )
+    await mihomo2quanx(
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/anthropic.yaml",
+        "quanx_anthropic.list",
+        "us",
+    )
 
 
 if __name__ == "__main__":
