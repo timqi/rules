@@ -4,6 +4,7 @@ host, openaicomproductionae4b.blob.core.windows.net, us
 host, production-openaicom-storage.azureedge.net, us
 host-suffix, ai.com, us
 host-suffix, chatgpt.com, us
+host-suffix, chat.com, us
 host-suffix, oaistatic.com, us
 host-suffix, oaiusercontent.com, us
 host-suffix, openai.com, us
