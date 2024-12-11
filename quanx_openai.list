@@ -8,6 +8,7 @@ host-suffix, chat.com, us
 host-suffix, oaistatic.com, us
 host-suffix, oaiusercontent.com, us
 host-suffix, openai.com, us
+host-suffix, sora.com, us
 host-suffix, openai.com.cdn.cloudflare.net, us
 host, o33249.ingest.sentry.io, us
 host, openaicom.imgix.net, us
