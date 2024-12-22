@@ -9,6 +9,10 @@ host-suffix, oaistatic.com, us
 host-suffix, oaiusercontent.com, us
 host-suffix, openai.com, us
 host-suffix, sora.com, us
+host-suffix, chatgpt.livekit.cloud, us
+host-suffix, host.livekit.cloud, us
+host-suffix, turn.livekit.cloud, us
 host-suffix, openai.com.cdn.cloudflare.net, us
 host, o33249.ingest.sentry.io, us
 host, openaicom.imgix.net, us
+host, browser-intake-datadoghq.com, us
