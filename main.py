@@ -69,6 +69,8 @@ def simplify_gfw(content):
     for r in result:
         if not r.strip() or not r.strip("+."):
             continue
+        if r.endswith(".cn"):
+            continue
         results.append(r)
     results.sort()
     return results
@@ -99,7 +101,13 @@ def merge_cidrs(cidr_list):
 async def main():
     print("Hello from rules!")
 
-    sitegfw = await get_content("geo/geosite/gfw.list")
+    sitegfw = await get_content(
+        [
+            "geo/geosite/gfw.list",
+            "geo/geosite/zoom.list",
+            "geo/geosite/slack.list",
+        ]
+    )
     sitegfw = simplify_gfw(sitegfw)
     write_list(sitegfw, "sitegfw")
 
@@ -127,6 +135,10 @@ async def main():
     )
     merged = merge_cidrs(ips.strip().splitlines())
     write_list(merged, "ipcnprivate")
+
+    iptg = await get_content("geo/geoip/telegram.list")
+    merged = merge_cidrs(iptg.strip().splitlines())
+    write_list(merged, "iptg")
 
 
 if __name__ == "__main__":
