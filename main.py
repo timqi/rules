@@ -112,7 +112,11 @@ async def main():
     write_list(sitegfw, "sitegfw")
 
     await download_save(
-        ["geo/geosite/private.list", "geo-lite/geosite/cn.list"],
+        [
+            "geo/geosite/private.list",
+            "geo-lite/geosite/cn.list",
+            "geo-lite/geosite/apple.list",
+        ],
         "sitecn",
     )
 
