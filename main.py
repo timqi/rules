@@ -27,8 +27,14 @@ async def get_content(urls):
     return "\n".join(contents)
 
 
-async def download_save(urls, name):
+async def download_save(urls, name, raw=None):
     content = await get_content(urls)
+    if isinstance(raw, list):
+        content = content.strip() + "\n" +\
+            "\n".join([r.strip() for r in raw])
+    elif isinstance(raw, str):
+        content = content.strip() + "\n" +\
+            raw.strip()
     write_list(content, name)
 
 
@@ -115,9 +121,17 @@ async def main():
         [
             "geo/geosite/private.list",
             "geo-lite/geosite/cn.list",
-            "geo-lite/geosite/apple.list",
         ],
         "sitecn",
+        [
+            # for apple
+            "+.icloud.com",
+            "+.itunes.com",
+            "+.apple.com",
+            "+.applemusic.com",
+            "+.omtrdc.net",
+            "+.apple-dns.com",
+        ]
     )
 
     await download_save(
