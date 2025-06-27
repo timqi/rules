@@ -130,7 +130,11 @@ async def main():
             "+.apple.com",
             "+.applemusic.com",
             "+.omtrdc.net",
-            "+.apple-dns.com",
+            "+.cdn-apple.com",
+            "+.apple-dns.net",
+            "+.akadns.net",
+            "+.icloud-content.com",
+            "+.apple-studies.com",
         ]
     )
 
