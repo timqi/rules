@@ -30,11 +30,9 @@ async def get_content(urls):
 async def download_save(urls, name, raw=None):
     content = await get_content(urls)
     if isinstance(raw, list):
-        content = content.strip() + "\n" +\
-            "\n".join([r.strip() for r in raw])
+        content = content.strip() + "\n" + "\n".join([r.strip() for r in raw])
     elif isinstance(raw, str):
-        content = content.strip() + "\n" +\
-            raw.strip()
+        content = content.strip() + "\n" + raw.strip()
     write_list(content, name)
 
 
@@ -43,6 +41,24 @@ def write_list(l, name):
     with open(file, "w") as f:
         content = "\n".join(l) if isinstance(l, list) else l
         f.write(content)
+    print(f"{file} written")
+
+    # create qx
+    qx_content = []
+    if name.startswith("site"):
+        for line in content.splitlines():
+            if line.startswith("+.") or line.startswith("*."):
+                qx_content.append(f"DOMAIN-SUFFIX,{line[2:]}")
+            elif line.startswith("."):
+                qx_content.append(f"DOMAIN-SUFFIX,{line[1:]}")
+    elif name.startswith("ip"):
+        for line in content.splitlines():
+            qx_content.append(f"IP-CIDR,{line}")
+
+    os.makedirs("output/qx", exist_ok=True)
+    file = f"output/qx/{name}.list"
+    with open(file, "w") as f:
+        f.writelines("\n".join(qx_content))
     print(f"{file} written")
 
 
@@ -135,7 +151,7 @@ async def main():
             "+.akadns.net",
             "+.icloud-content.com",
             "+.apple-studies.com",
-        ]
+        ],
     )
 
     await download_save(
