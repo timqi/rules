@@ -51,6 +51,8 @@ def write_list(l, name):
                 qx_content.append(f"DOMAIN-SUFFIX,{line[2:]}")
             elif line.startswith("."):
                 qx_content.append(f"DOMAIN-SUFFIX,{line[1:]}")
+            else:
+                qx_content.append(f"DOMAIN-SUFFIX,{line}")
     elif name.startswith("ip"):
         for line in content.splitlines():
             qx_content.append(f"IP-CIDR,{line}")
@@ -157,6 +159,9 @@ async def main():
     await download_save(
         "geo/geosite/category-cryptocurrency.list",
         "sitecrypto",
+        [
+            "+.hyperliquid.xyz",
+        ],
     )
 
     await download_save(
