@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip
 DOMAIN-SUFFIX,analytics.strava.com
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,cdn.angruo.com
+DOMAIN-SUFFIX,cdn.lilyemby.com
 DOMAIN-SUFFIX,client.amplifi.com
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,download.microsoft.com
@@ -143,6 +144,7 @@ DOMAIN-SUFFIX,origin-a.akamaihd.ne
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,sms.imagetasks.com
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+DOMAIN-SUFFIX,tx.lilyemby.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,www.libvideo.com
 DOMAIN-SUFFIX,www.yxssp.com
@@ -2072,6 +2074,7 @@ DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jiazhao.com
 DOMAIN-SUFFIX,jibencaozuo.com
 DOMAIN-SUFFIX,jidian.im
+DOMAIN-SUFFIX,jiedaibao.gs
 DOMAIN-SUFFIX,jiemeng8.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jikeiot.cloud
