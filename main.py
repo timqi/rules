@@ -48,14 +48,14 @@ def write_list(l, name):
     if name.startswith("site"):
         for line in content.splitlines():
             if line.startswith("+.") or line.startswith("*."):
-                qx_content.append(f"DOMAIN-SUFFIX,{line[2:]}")
+                qx_content.append(f"host-suffix,{line[2:]},proxy")
             elif line.startswith("."):
-                qx_content.append(f"DOMAIN-SUFFIX,{line[1:]}")
+                qx_content.append(f"host-suffix,{line[1:]},proxy")
             else:
-                qx_content.append(f"DOMAIN-SUFFIX,{line}")
+                qx_content.append(f"host-suffix,{line},proxy")
     elif name.startswith("ip"):
         for line in content.splitlines():
-            qx_content.append(f"IP-CIDR,{line}")
+            qx_content.append(f"ip-cidr,{line},direct")
 
     os.makedirs("output/qx", exist_ok=True)
     file = f"output/qx/{name}.list"
