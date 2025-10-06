@@ -142,6 +142,7 @@ async def main():
         ],
         "sitecn",
         [
+            "+.tushare.pro",
             # for apple
             "+.icloud.com",
             "+.itunes.com",
@@ -160,6 +161,7 @@ async def main():
         "geo/geosite/category-cryptocurrency.list",
         "sitecrypto",
         [
+            "+.hyperunit.xyz",
             "+.hyperliquid.xyz",
         ],
     )
