@@ -166,4 +166,5 @@ host-suffix,btcbox.co.jp,proxy
 host-suffix,coinone.co.kr,proxy
 host-suffix,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,proxy
 host-suffix,oklink.com,proxy
+host-suffix,hyperunit.xyz,proxy
 host-suffix,hyperliquid.xyz,proxy
