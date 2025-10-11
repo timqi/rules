@@ -142,6 +142,10 @@ async def main():
         ],
         "sitecn",
         [
+            "+.microsoft.com",
+            "+.steamcontent.com",
+            "+.live.com",
+            "+.bing.com",
             "+.tushare.pro",
             # for apple
             "+.icloud.com",
