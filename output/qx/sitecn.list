@@ -142,6 +142,7 @@ host-suffix,kc.kexinshe.com,proxy
 host-suffix,ntservicepack.microsoft.com,proxy
 host-suffix,origin-a.akamaihd.ne,proxy
 host-suffix,origin-a.akamaihd.net,proxy
+host-suffix,smart.uhdnow.com,proxy
 host-suffix,sms.imagetasks.com,proxy
 host-suffix,steamcommunity-a.akamaihd.net,proxy
 host-suffix,tx.lilyemby.com,proxy
