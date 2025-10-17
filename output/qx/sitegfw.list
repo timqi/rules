@@ -476,7 +476,6 @@ host-suffix,btbtav.com,proxy
 host-suffix,btc.com,proxy
 host-suffix,btc98.com,proxy
 host-suffix,btdig.com,proxy
-host-suffix,btdigg.org,proxy
 host-suffix,btguard.com,proxy
 host-suffix,btku.org,proxy
 host-suffix,btspread.com,proxy
@@ -3679,6 +3678,7 @@ host-suffix,weblagu.com,proxy
 host-suffix,webmproject.org,proxy
 host-suffix,webpkgcache.com,proxy
 host-suffix,webrtc.org,proxy
+host-suffix,websdr.org,proxy
 host-suffix,website,proxy
 host-suffix,websitepulse.com,proxy
 host-suffix,websnapr.com,proxy
@@ -3828,6 +3828,7 @@ host-suffix,xn--i2ru8q2qg.com,proxy
 host-suffix,xn--ngstr-lra8j.com,proxy
 host-suffix,xn--noss43i.com,proxy
 host-suffix,xn--q9jyb4c,proxy
+host-suffix,xn--u2u927b.com,proxy
 host-suffix,xnpool.com,proxy
 host-suffix,xnxx.com,proxy
 host-suffix,xpud.org,proxy
