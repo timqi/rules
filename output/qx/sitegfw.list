@@ -866,6 +866,7 @@ host-suffix,dnset.com,proxy
 host-suffix,dnsrd.com,proxy
 host-suffix,do,proxy
 host-suffix,docker.com,proxy
+host-suffix,dockerstatus.com,proxy
 host-suffix,doctorvoice.org,proxy
 host-suffix,documentingreality.com,proxy
 host-suffix,dog,proxy
