@@ -108,6 +108,7 @@ host-suffix,ad,proxy
 host-suffix,adcex.com,proxy
 host-suffix,addyoutube.com,proxy
 host-suffix,adelaidebbs.com,proxy
+host-suffix,adguard-vpn.com,proxy
 host-suffix,admob.com,proxy
 host-suffix,ads-twitter.com,proxy
 host-suffix,adsense.com,proxy
@@ -1467,6 +1468,7 @@ host-suffix,hautelookcdn.com,proxy
 host-suffix,have8.com,proxy
 host-suffix,hbg.com,proxy
 host-suffix,hbo.com,proxy
+host-suffix,hbomax.com,proxy
 host-suffix,hclips.com,proxy
 host-suffix,hdzog.com,proxy
 host-suffix,heartyit.com,proxy
@@ -2784,6 +2786,7 @@ host-suffix,rumble.com,proxy
 host-suffix,run,proxy
 host-suffix,runbtx.com,proxy
 host-suffix,rushbee.com,proxy
+host-suffix,rustdesk.com,proxy
 host-suffix,rusvpn.com,proxy
 host-suffix,rutracker.org,proxy
 host-suffix,rw,proxy
