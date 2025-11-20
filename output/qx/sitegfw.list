@@ -681,6 +681,7 @@ host-suffix,cloud,proxy
 host-suffix,cloudcone.com,proxy
 host-suffix,cloudflare-dns.com,proxy
 host-suffix,cloudflare-ipfs.com,proxy
+host-suffix,cloudflarestatus.com,proxy
 host-suffix,club,proxy
 host-suffix,club1069.com,proxy
 host-suffix,clubhouseapi.com,proxy
@@ -3835,6 +3836,7 @@ host-suffix,xm.com,proxy
 host-suffix,xml-training-guide.com,proxy
 host-suffix,xmovies.com,proxy
 host-suffix,xn--4gq171p.com,proxy
+host-suffix,xn--9iqy04a7fi01l.com,proxy
 host-suffix,xn--9pr62r24a.com,proxy
 host-suffix,xn--czq75pvv1aj5c.org,proxy
 host-suffix,xn--i2ru8q2qg.com,proxy
