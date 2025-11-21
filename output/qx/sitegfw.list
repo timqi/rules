@@ -1417,6 +1417,7 @@ host-suffix,graphql.org,proxy
 host-suffix,gravatar.com,proxy
 host-suffix,greasyfork.org,proxy
 host-suffix,greatfire.org,proxy
+host-suffix,greatfirevpn.com,proxy
 host-suffix,greatfirewallofchina.org,proxy
 host-suffix,greatroc.org,proxy
 host-suffix,greatzhonghua.org,proxy
@@ -3745,6 +3746,7 @@ host-suffix,wikipedia.com,proxy
 host-suffix,wikipedia.org,proxy
 host-suffix,wikiquote.org,proxy
 host-suffix,wikisource.org,proxy
+host-suffix,wikiunblocked.org,proxy
 host-suffix,wikiversity.org,proxy
 host-suffix,wikivoyage.org,proxy
 host-suffix,wikiwand.com,proxy
