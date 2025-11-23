@@ -158,6 +158,8 @@ async def main():
             "+.akadns.net",
             "+.icloud-content.com",
             "+.apple-studies.com",
+
+            "+.mijia.tech",
         ],
     )
 
