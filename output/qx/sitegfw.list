@@ -108,6 +108,7 @@ host-suffix,ad,proxy
 host-suffix,adcex.com,proxy
 host-suffix,addyoutube.com,proxy
 host-suffix,adelaidebbs.com,proxy
+host-suffix,adguard-vpn.com,proxy
 host-suffix,admob.com,proxy
 host-suffix,ads-twitter.com,proxy
 host-suffix,adsense.com,proxy
@@ -220,6 +221,7 @@ host-suffix,aol.com,proxy
 host-suffix,aolnews.com,proxy
 host-suffix,aomedia.org,proxy
 host-suffix,aomiwang.com,proxy
+host-suffix,aoxvpn.com,proxy
 host-suffix,apartmentratings.com,proxy
 host-suffix,apartments.com,proxy
 host-suffix,apat1989.org,proxy
@@ -253,6 +255,7 @@ host-suffix,asia,proxy
 host-suffix,asia-gaming.com,proxy
 host-suffix,asiaharvest.org,proxy
 host-suffix,asianage.com,proxy
+host-suffix,asianfanfics.com,proxy
 host-suffix,asiansexdiary.com,proxy
 host-suffix,asiaone.com,proxy
 host-suffix,asiatgp.com,proxy
@@ -475,7 +478,6 @@ host-suffix,btbtav.com,proxy
 host-suffix,btc.com,proxy
 host-suffix,btc98.com,proxy
 host-suffix,btdig.com,proxy
-host-suffix,btdigg.org,proxy
 host-suffix,btguard.com,proxy
 host-suffix,btku.org,proxy
 host-suffix,btspread.com,proxy
@@ -526,6 +528,7 @@ host-suffix,campaignforuyghurs.org,proxy
 host-suffix,cams.com,proxy
 host-suffix,canadameet.com,proxy
 host-suffix,canalporno.com,proxy
+host-suffix,canva.com,proxy
 host-suffix,canyu.org,proxy
 host-suffix,caochangqing.com,proxy
 host-suffix,carabinasypistolas.com,proxy
@@ -584,8 +587,10 @@ host-suffix,channelnewsasia.com,proxy
 host-suffix,chanworld.org,proxy
 host-suffix,chaoex.com,proxy
 host-suffix,chat,proxy
+host-suffix,chat.com,proxy
 host-suffix,chatgpt.com,proxy
 host-suffix,chatnook.com,proxy
+host-suffix,chatpdf.com,proxy
 host-suffix,chaturbate.com,proxy
 host-suffix,checkgfw.com,proxy
 host-suffix,chengmingmag.com,proxy
@@ -676,6 +681,7 @@ host-suffix,cloud,proxy
 host-suffix,cloudcone.com,proxy
 host-suffix,cloudflare-dns.com,proxy
 host-suffix,cloudflare-ipfs.com,proxy
+host-suffix,cloudflarestatus.com,proxy
 host-suffix,club,proxy
 host-suffix,club1069.com,proxy
 host-suffix,clubhouseapi.com,proxy
@@ -819,8 +825,6 @@ host-suffix,deepmind.com,proxy
 host-suffix,deezer.com,proxy
 host-suffix,definebabe.com,proxy
 host-suffix,deja.com,proxy
-host-suffix,delicious.com,proxy
-host-suffix,democrats.org,proxy
 host-suffix,demosisto.hk,proxy
 host-suffix,deno.com,proxy
 host-suffix,depositphotos.com,proxy
@@ -866,6 +870,7 @@ host-suffix,dnset.com,proxy
 host-suffix,dnsrd.com,proxy
 host-suffix,do,proxy
 host-suffix,docker.com,proxy
+host-suffix,dockerstatus.com,proxy
 host-suffix,doctorvoice.org,proxy
 host-suffix,documentingreality.com,proxy
 host-suffix,dog,proxy
@@ -1129,6 +1134,7 @@ host-suffix,fizzik.com,proxy
 host-suffix,fj,proxy
 host-suffix,fleshbot.com,proxy
 host-suffix,fleursdeslettres.com,proxy
+host-suffix,flexclip.com,proxy
 host-suffix,flgjustice.org,proxy
 host-suffix,flickr.com,proxy
 host-suffix,flickriver.com,proxy
@@ -1137,6 +1143,7 @@ host-suffix,flipboard.com,proxy
 host-suffix,flipkart.com,proxy
 host-suffix,flitto.com,proxy
 host-suffix,flnet.org,proxy
+host-suffix,flowgpt.com,proxy
 host-suffix,flypool.org,proxy
 host-suffix,flyvpn.com,proxy
 host-suffix,flyzy2005.com,proxy
@@ -1410,6 +1417,7 @@ host-suffix,graphql.org,proxy
 host-suffix,gravatar.com,proxy
 host-suffix,greasyfork.org,proxy
 host-suffix,greatfire.org,proxy
+host-suffix,greatfirevpn.com,proxy
 host-suffix,greatfirewallofchina.org,proxy
 host-suffix,greatroc.org,proxy
 host-suffix,greatzhonghua.org,proxy
@@ -1462,6 +1470,7 @@ host-suffix,hautelookcdn.com,proxy
 host-suffix,have8.com,proxy
 host-suffix,hbg.com,proxy
 host-suffix,hbo.com,proxy
+host-suffix,hbomax.com,proxy
 host-suffix,hclips.com,proxy
 host-suffix,hdzog.com,proxy
 host-suffix,heartyit.com,proxy
@@ -1486,6 +1495,7 @@ host-suffix,heyzo.com,proxy
 host-suffix,hgseav.com,proxy
 host-suffix,hhdcb3office.org,proxy
 host-suffix,hhthesakyatrizin.org,proxy
+host-suffix,hicairo.com,proxy
 host-suffix,hiccears.com,proxy
 host-suffix,hidden-advent.org,proxy
 host-suffix,hidecloud.com,proxy
@@ -1615,6 +1625,7 @@ host-suffix,huyandex.com,proxy
 host-suffix,hxwk.org,proxy
 host-suffix,hxwq.org,proxy
 host-suffix,hybrid-analysis.com,proxy
+host-suffix,hyperbeam.com,proxy
 host-suffix,hyperrate.com,proxy
 host-suffix,i-cable.com,proxy
 host-suffix,i-scmp.com,proxy
@@ -1776,7 +1787,6 @@ host-suffix,jex.com,proxy
 host-suffix,jgoodies.com,proxy
 host-suffix,jiangweiping.com,proxy
 host-suffix,jiaoyou8.com,proxy
-host-suffix,jichangtj.com,proxy
 host-suffix,jiepang.com,proxy
 host-suffix,jieshibaobao.com,proxy
 host-suffix,jifangge.com,proxy
@@ -2366,6 +2376,7 @@ host-suffix,nytimg.com,proxy
 host-suffix,nytstyle.com,proxy
 host-suffix,nz,proxy
 host-suffix,nzchinese.com,proxy
+host-suffix,oaiusercontent.com,proxy
 host-suffix,oanda.com,proxy
 host-suffix,oann.com,proxy
 host-suffix,obutu.com,proxy
@@ -2518,6 +2529,7 @@ host-suffix,piaotia.com,proxy
 host-suffix,picacomic.com,proxy
 host-suffix,picacomiccn.com,proxy
 host-suffix,picasaweb.com,proxy
+host-suffix,picsart.com,proxy
 host-suffix,picturedip.com,proxy
 host-suffix,picturesocial.com,proxy
 host-suffix,picuki.com,proxy
@@ -2777,6 +2789,7 @@ host-suffix,rumble.com,proxy
 host-suffix,run,proxy
 host-suffix,runbtx.com,proxy
 host-suffix,rushbee.com,proxy
+host-suffix,rustdesk.com,proxy
 host-suffix,rusvpn.com,proxy
 host-suffix,rutracker.org,proxy
 host-suffix,rw,proxy
@@ -2984,6 +2997,7 @@ host-suffix,sonidodelaesperanza.org,proxy
 host-suffix,sopcast.com,proxy
 host-suffix,sopcast.org,proxy
 host-suffix,sophos.com,proxy
+host-suffix,sora.com,proxy
 host-suffix,sorting-algorithms.com,proxy
 host-suffix,sos.org,proxy
 host-suffix,sosreader.com,proxy
@@ -3157,11 +3171,13 @@ host-suffix,telecomspace.com,proxy
 host-suffix,telegram.org,proxy
 host-suffix,telegramdownload.com,proxy
 host-suffix,tellapart.com,proxy
+host-suffix,temu.com,proxy
 host-suffix,tenacy.com,proxy
 host-suffix,tenor.com,proxy
 host-suffix,tensorflow.org,proxy
 host-suffix,tenzinpalmo.com,proxy
 host-suffix,terabox.com,proxy
+host-suffix,terobox.com,proxy
 host-suffix,tew.org,proxy
 host-suffix,textnow.com,proxy
 host-suffix,tfiflve.com,proxy
@@ -3342,6 +3358,7 @@ host-suffix,trendsmap.com,proxy
 host-suffix,tronscan.org,proxy
 host-suffix,truebuddha-md.org,proxy
 host-suffix,trulyergonomic.com,proxy
+host-suffix,trustwallet.com,proxy
 host-suffix,truthsocial.com,proxy
 host-suffix,truveo.com,proxy
 host-suffix,tsemtulku.com,proxy
@@ -3677,6 +3694,7 @@ host-suffix,weblagu.com,proxy
 host-suffix,webmproject.org,proxy
 host-suffix,webpkgcache.com,proxy
 host-suffix,webrtc.org,proxy
+host-suffix,websdr.org,proxy
 host-suffix,website,proxy
 host-suffix,websitepulse.com,proxy
 host-suffix,websnapr.com,proxy
@@ -3729,6 +3747,7 @@ host-suffix,wikipedia.com,proxy
 host-suffix,wikipedia.org,proxy
 host-suffix,wikiquote.org,proxy
 host-suffix,wikisource.org,proxy
+host-suffix,wikiunblocked.org,proxy
 host-suffix,wikiversity.org,proxy
 host-suffix,wikivoyage.org,proxy
 host-suffix,wikiwand.com,proxy
@@ -3820,12 +3839,14 @@ host-suffix,xm.com,proxy
 host-suffix,xml-training-guide.com,proxy
 host-suffix,xmovies.com,proxy
 host-suffix,xn--4gq171p.com,proxy
+host-suffix,xn--9iqy04a7fi01l.com,proxy
 host-suffix,xn--9pr62r24a.com,proxy
 host-suffix,xn--czq75pvv1aj5c.org,proxy
 host-suffix,xn--i2ru8q2qg.com,proxy
 host-suffix,xn--ngstr-lra8j.com,proxy
 host-suffix,xn--noss43i.com,proxy
 host-suffix,xn--q9jyb4c,proxy
+host-suffix,xn--u2u927b.com,proxy
 host-suffix,xnpool.com,proxy
 host-suffix,xnxx.com,proxy
 host-suffix,xpud.org,proxy

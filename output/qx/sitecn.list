@@ -142,6 +142,7 @@ host-suffix,kc.kexinshe.com,proxy
 host-suffix,ntservicepack.microsoft.com,proxy
 host-suffix,origin-a.akamaihd.ne,proxy
 host-suffix,origin-a.akamaihd.net,proxy
+host-suffix,smart.uhdnow.com,proxy
 host-suffix,sms.imagetasks.com,proxy
 host-suffix,steamcommunity-a.akamaihd.net,proxy
 host-suffix,tx.lilyemby.com,proxy
@@ -2614,7 +2615,6 @@ host-suffix,oneyac.com,proxy
 host-suffix,onlinedown.net,proxy
 host-suffix,onlinesjtu.com,proxy
 host-suffix,onlylady.com,proxy
-host-suffix,ooklaserver.net,proxy
 host-suffix,opdown.com,proxy
 host-suffix,open.cd,proxy
 host-suffix,openapp.run,proxy
@@ -3826,6 +3826,10 @@ host-suffix,zuoyebang.com,proxy
 host-suffix,zybang.com,proxy
 host-suffix,zyh365.com,proxy
 host-suffix,zzdtec.com,proxy
+host-suffix,microsoft.com,proxy
+host-suffix,steamcontent.com,proxy
+host-suffix,live.com,proxy
+host-suffix,bing.com,proxy
 host-suffix,tushare.pro,proxy
 host-suffix,icloud.com,proxy
 host-suffix,itunes.com,proxy
