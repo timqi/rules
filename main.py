@@ -65,16 +65,32 @@ def write_list(l, name):
 
 
 # %%
+def simplify_domain_line(line: str) -> list[str]:
+    if line.startswith("+.") or line.startswith("*."):
+        line = line[2:]
+    elif line.startswith("."):
+        line = line[1:]
+    return line.split(".")
+
+
+def simplify_domain_set(domains: set[str]) -> list[str]:
+    results = []
+    for r in domains:
+        if not r.strip() or not r.strip("+."):
+            continue
+        if r.endswith(".cn"):
+            continue
+        results.append(r)
+    results.sort()
+    return results
+
+
+# %%
 def simplify_gfw(content):
-    white = {"+.com", "+.org", ".net", "+.hk"}
+    white = {"+.com", "+.org", "+.net", "+.hk"}
     result = set()
     for line in content.splitlines():
-        if line.startswith("+.") or line.startswith("*."):
-            line = line[2:]
-        elif line.startswith("."):
-            line = line[1:]
-
-        domains = line.split(".")
+        domains = simplify_domain_line(line)
         if len(domains) < 1:
             continue
 
@@ -89,15 +105,29 @@ def simplify_gfw(content):
             if i == 1 and target not in result:
                 result.add(target)
                 break
-    results = []
-    for r in result:
-        if not r.strip() or not r.strip("+."):
+
+    return simplify_domain_set(result)
+
+
+# %%
+def simplify_google(content):
+    white = {"+.com", "+.org", "+.net"}
+    result = set()
+    for line in content.splitlines():
+        domains = simplify_domain_line(line)
+        if len(domains) < 1:
             continue
-        if r.endswith(".cn"):
-            continue
-        results.append(r)
-    results.sort()
-    return results
+        for i in range(len(domains)):
+            target = "+." + ".".join(domains[-(i + 1) :])
+            # print(f"{line}\ttest: {i} {target}")
+            if i == 0 and target not in white:
+                break
+            if target in result:
+                break
+            if i == 1 and target not in result:
+                result.add(target)
+                break
+    return simplify_domain_set(result)
 
 
 # %%
@@ -124,6 +154,14 @@ def merge_cidrs(cidr_list):
 
 async def main():
     print("Hello from rules!")
+
+    sitegoogle = await get_content(
+        [
+            "geo/geosite/google.list",
+        ]
+    )
+    sitegoogle = simplify_google(sitegoogle)
+    write_list(sitegoogle, "sitegoogle")
 
     sitegfw = await get_content(
         [
@@ -158,7 +196,6 @@ async def main():
             "+.akadns.net",
             "+.icloud-content.com",
             "+.apple-studies.com",
-
             "+.mijia.tech",
         ],
     )
