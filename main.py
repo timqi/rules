@@ -155,6 +155,7 @@ def merge_cidrs(cidr_list):
 async def main():
     print("Hello from rules!")
 
+    # google
     sitegoogle = await get_content(
         [
             "geo/geosite/google.list",
@@ -163,6 +164,7 @@ async def main():
     sitegoogle = simplify_google(sitegoogle)
     write_list(sitegoogle, "sitegoogle")
 
+    # gfw
     sitegfw = await get_content(
         [
             "geo/geosite/gfw.list",
@@ -173,6 +175,7 @@ async def main():
     sitegfw = simplify_gfw(sitegfw)
     write_list(sitegfw, "sitegfw")
 
+    # cn
     await download_save(
         [
             "geo/geosite/private.list",
@@ -200,6 +203,7 @@ async def main():
         ],
     )
 
+    # crypto
     await download_save(
         "geo/geosite/category-cryptocurrency.list",
         "sitecrypto",
@@ -209,11 +213,13 @@ async def main():
         ],
     )
 
+    # ai
     await download_save(
         "geo/geosite/category-ai-!cn.list",
         "siteai",
     )
 
+    # cn ip
     ips = await get_content(
         [
             "geo/geoip/cn.list",
@@ -224,6 +230,7 @@ async def main():
     merged = merge_cidrs(ips.strip().splitlines())
     write_list(merged, "ipcnprivate")
 
+    # telegram
     iptg = await get_content("geo/geoip/telegram.list")
     merged = merge_cidrs(iptg.strip().splitlines())
     write_list(merged, "iptg")
