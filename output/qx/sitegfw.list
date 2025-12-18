@@ -422,6 +422,7 @@ host-suffix,binance.com,proxy
 host-suffix,binance.org,proxy
 host-suffix,bing.com,proxy
 host-suffix,bit-z.com,proxy
+host-suffix,bitbaby.com,proxy
 host-suffix,bitbay.net,proxy
 host-suffix,bitchute.com,proxy
 host-suffix,bitcointalk.org,proxy
@@ -1819,6 +1820,7 @@ host-suffix,icu,proxy
 host-suffix,icu-project.org,proxy
 host-suffix,id,proxy
 host-suffix,idaiwan.com,proxy
+host-suffix,idcflare.com,proxy
 host-suffix,idiomconnection.com,proxy
 host-suffix,idlcoyote.com,proxy
 host-suffix,idouga.com,proxy
