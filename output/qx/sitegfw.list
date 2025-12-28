@@ -168,6 +168,7 @@ host-suffix,alforattv.net,proxy
 host-suffix,alhayat.com,proxy
 host-suffix,aliengu.com,proxy
 host-suffix,aljazeera.com,proxy
+host-suffix,aljazeera.net,proxy
 host-suffix,alkasir.com,proxy
 host-suffix,all4mom.org,proxy
 host-suffix,allcoin.com,proxy
@@ -718,6 +719,7 @@ host-suffix,chrome.com,proxy
 host-suffix,chromecast.com,proxy
 host-suffix,chromeexperiments.com,proxy
 host-suffix,chromestatus.com,proxy
+host-suffix,chromium.org,proxy
 host-suffix,chuang-yen.org,proxy
 host-suffix,chubold.com,proxy
 host-suffix,chubun.com,proxy
@@ -910,7 +912,6 @@ host-suffix,definebabe.com,proxy
 host-suffix,deja.com,proxy
 host-suffix,delcamp.net,proxy
 host-suffix,demosisto.hk,proxy
-host-suffix,deno.com,proxy
 host-suffix,depositphotos.com,proxy
 host-suffix,design,proxy
 host-suffix,dessci.com,proxy
@@ -1453,6 +1454,7 @@ host-suffix,gettrials.com,proxy
 host-suffix,getuploader.com,proxy
 host-suffix,gfsale.com,proxy
 host-suffix,gfwatch.org,proxy
+host-suffix,gfwbao.com,proxy
 host-suffix,gg,proxy
 host-suffix,ggpht.com,proxy
 host-suffix,ggssl.com,proxy
@@ -3387,6 +3389,7 @@ host-suffix,static-economist.com,proxy
 host-suffix,staticflickr.com,proxy
 host-suffix,stboy.net,proxy
 host-suffix,steamcommunity.com,proxy
+host-suffix,steamladder.com,proxy
 host-suffix,steampowered.com,proxy
 host-suffix,steamstatic.com,proxy
 host-suffix,steel-storm.com,proxy
