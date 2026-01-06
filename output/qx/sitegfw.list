@@ -897,6 +897,7 @@ host-suffix,daum.net,proxy
 host-suffix,david-kilgour.com,proxy
 host-suffix,dawangidc.com,proxy
 host-suffix,daylife.com,proxy
+host-suffix,dazn.com,proxy
 host-suffix,dbgjd.com,proxy
 host-suffix,dcmilitary.com,proxy
 host-suffix,ddns.net,proxy
@@ -2697,6 +2698,7 @@ host-suffix,onmypc.net,proxy
 host-suffix,onmypc.org,proxy
 host-suffix,onthehunt.com,proxy
 host-suffix,ontrac.com,proxy
+host-suffix,ooni.org,proxy
 host-suffix,openai.com,proxy
 host-suffix,opendemocracy.net,proxy
 host-suffix,openid.net,proxy
@@ -3423,6 +3425,7 @@ host-suffix,strikingly.com,proxy
 host-suffix,strongvpn.com,proxy
 host-suffix,strongwindpress.com,proxy
 host-suffix,studentsforafreetibet.org,proxy
+host-suffix,studio,proxy
 host-suffix,stumbleupon.com,proxy
 host-suffix,stupidvideos.com,proxy
 host-suffix,su,proxy
@@ -4246,6 +4249,7 @@ host-suffix,xanga.com,proxy
 host-suffix,xbabe.com,proxy
 host-suffix,xbookcn.com,proxy
 host-suffix,xbtce.com,proxy
+host-suffix,xcancel.com,proxy
 host-suffix,xcritic.com,proxy
 host-suffix,xerotica.com,proxy
 host-suffix,xfinity.com,proxy
