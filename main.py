@@ -217,6 +217,10 @@ async def main():
     await download_save(
         "geo/geosite/category-ai-!cn.list",
         "siteai",
+        [
+            "+.usefathom.com",
+            "+.intercomcdn.com",
+        ]
     )
 
     # cn ip
