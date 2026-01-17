@@ -220,6 +220,7 @@ async def main():
         [
             "+.usefathom.com",
             "+.intercomcdn.com",
+            "+.datadoghq.com",
         ]
     )
 
