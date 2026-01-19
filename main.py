@@ -221,6 +221,7 @@ async def main():
             "+.usefathom.com",
             "+.intercomcdn.com",
             "+.datadoghq.com",
+            "+.moonpay.com", # polymarket api address
         ]
     )
 
