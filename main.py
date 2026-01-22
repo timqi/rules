@@ -210,6 +210,7 @@ async def main():
         [
             "+.hyperunit.xyz",
             "+.hyperliquid.xyz",
+            "+.moonpay.com", # polymarket api address
         ],
     )
 
@@ -221,7 +222,8 @@ async def main():
             "+.usefathom.com",
             "+.intercomcdn.com",
             "+.datadoghq.com",
-            "+.moonpay.com", # polymarket api address
+            "+.google-analytics.com",
+            "+.clients6.google.com",
         ]
     )
 
