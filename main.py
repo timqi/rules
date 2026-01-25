@@ -224,6 +224,9 @@ async def main():
             "+.datadoghq.com",
             "+.google-analytics.com",
             "+.clients6.google.com",
+            "+.clients4.google.com",
+            "+.enterprise-safebrowsing.googleapis.com",
+            "+.optimizationguide-pa.googleapis.com",
         ]
     )
 
