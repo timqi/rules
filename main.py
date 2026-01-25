@@ -227,6 +227,7 @@ async def main():
             "+.clients4.google.com",
             "+.enterprise-safebrowsing.googleapis.com",
             "+.optimizationguide-pa.googleapis.com",
+            "+.play.google.com",
         ]
     )
 
