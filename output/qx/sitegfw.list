@@ -558,6 +558,7 @@ host-suffix,by,proxy
 host-suffix,bybit.com,proxy
 host-suffix,bypasscensorship.org,proxy
 host-suffix,byrut.org,proxy
+host-suffix,byspotify.com,proxy
 host-suffix,bz,proxy
 host-suffix,c-est-simple.com,proxy
 host-suffix,c-span.org,proxy
@@ -3744,6 +3745,7 @@ host-suffix,transparency.org,proxy
 host-suffix,travel,proxy
 host-suffix,trendsmap.com,proxy
 host-suffix,trickip.net,proxy
+host-suffix,tritondigital.com,proxy
 host-suffix,tronscan.org,proxy
 host-suffix,truebuddha-md.org,proxy
 host-suffix,trulyergonomic.com,proxy
