@@ -1583,6 +1583,7 @@ host-suffix,greenvpn.net,proxy
 host-suffix,greenvpn.org,proxy
 host-suffix,grindr.com,proxy
 host-suffix,grok.com,proxy
+host-suffix,grokipedia.com,proxy
 host-suffix,gs-discuss.com,proxy
 host-suffix,gstatic.com,proxy
 host-suffix,gt,proxy
