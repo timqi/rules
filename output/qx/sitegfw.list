@@ -435,6 +435,7 @@ host-suffix,bitmex.com,proxy
 host-suffix,bitshare.com,proxy
 host-suffix,bitsnoop.com,proxy
 host-suffix,bitterwinter.org,proxy
+host-suffix,bittorrent.com,proxy
 host-suffix,bitvise.com,proxy
 host-suffix,biz,proxy
 host-suffix,bizhat.com,proxy
@@ -1647,6 +1648,7 @@ host-suffix,hellouk.org,proxy
 host-suffix,help,proxy
 host-suffix,helpeachpeople.com,proxy
 host-suffix,helpzhuling.org,proxy
+host-suffix,hembed.com,proxy
 host-suffix,hentaivideoworld.com,proxy
 host-suffix,heqinglian.net,proxy
 host-suffix,here.com,proxy
