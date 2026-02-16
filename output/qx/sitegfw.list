@@ -2305,6 +2305,7 @@ host-suffix,soy,proxy
 host-suffix,soylent.com,proxy
 host-suffix,soylentnews.org,proxy
 host-suffix,space,proxy
+host-suffix,spacex.com,proxy
 host-suffix,spankbang.com,proxy
 host-suffix,sparkpool.com,proxy
 host-suffix,spb.com,proxy
@@ -2812,6 +2813,7 @@ host-suffix,vzw.com,proxy
 host-suffix,w-pool.com,proxy
 host-suffix,waffle1999.com,proxy
 host-suffix,walletconnect.com,proxy
+host-suffix,walletconnect.org,proxy
 host-suffix,wallmama.com,proxy
 host-suffix,wallpapercasa.com,proxy
 host-suffix,wallsttv.com,proxy
