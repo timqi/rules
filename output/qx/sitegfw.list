@@ -1810,6 +1810,7 @@ host-suffix,nutaku.net,proxy
 host-suffix,nuuvem.com,proxy
 host-suffix,nvdst.com,proxy
 host-suffix,nvtongzhisheng.org,proxy
+host-suffix,nxtrace.org,proxy
 host-suffix,nybooks.com,proxy
 host-suffix,nyinfor.com,proxy
 host-suffix,nypost.com,proxy
@@ -1861,6 +1862,7 @@ host-suffix,onthehunt.com,proxy
 host-suffix,ontrac.com,proxy
 host-suffix,ooni.org,proxy
 host-suffix,openai.com,proxy
+host-suffix,opencritic.com,proxy
 host-suffix,opendemocracy.net,proxy
 host-suffix,openid.net,proxy
 host-suffix,openleaks.org,proxy
