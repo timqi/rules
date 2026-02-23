@@ -746,6 +746,7 @@ host-suffix,edubridge.com,proxy
 host-suffix,edx-cdn.org,proxy
 host-suffix,ee,proxy
 host-suffix,eevpn.com,proxy
+host-suffix,eff.org,proxy
 host-suffix,efksoft.com,proxy
 host-suffix,efukt.com,proxy
 host-suffix,eg,proxy
@@ -2689,6 +2690,7 @@ host-suffix,uncyclopedia.hk,proxy
 host-suffix,underwoodammo.com,proxy
 host-suffix,unholyknight.com,proxy
 host-suffix,unicode.org,proxy
+host-suffix,uniswap.org,proxy
 host-suffix,unknownspace.org,proxy
 host-suffix,unmineable.com,proxy
 host-suffix,unwire.hk,proxy
