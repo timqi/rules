@@ -524,6 +524,7 @@ host-suffix,ck,proxy
 host-suffix,ck101.com,proxy
 host-suffix,cl,proxy
 host-suffix,classicalguitarblog.net,proxy
+host-suffix,claude.com,proxy
 host-suffix,clearsurance.com,proxy
 host-suffix,clementine-player.org,proxy
 host-suffix,click,proxy
@@ -1297,7 +1298,6 @@ host-suffix,imagevenue.com,proxy
 host-suffix,imagezilla.net,proxy
 host-suffix,imago-images.com,proxy
 host-suffix,imb.org,proxy
-host-suffix,imdb.com,proxy
 host-suffix,imgasd.com,proxy
 host-suffix,imgchili.net,proxy
 host-suffix,imgur.com,proxy
