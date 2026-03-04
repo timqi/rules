@@ -186,6 +186,7 @@ host-suffix,areca-backup.org,proxy
 host-suffix,arstechnica.net,proxy
 host-suffix,art,proxy
 host-suffix,artstation.com,proxy
+host-suffix,arweave.org,proxy
 host-suffix,as,proxy
 host-suffix,asacp.org,proxy
 host-suffix,asia,proxy
@@ -2904,6 +2905,7 @@ host-suffix,wiredbytes.com,proxy
 host-suffix,wiredpen.com,proxy
 host-suffix,wireguard.com,proxy
 host-suffix,wisevid.com,proxy
+host-suffix,wispbyte.com,proxy
 host-suffix,wistia.com,proxy
 host-suffix,withgoogle.com,proxy
 host-suffix,withyoutube.com,proxy
