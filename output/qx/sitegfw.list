@@ -533,6 +533,7 @@ host-suffix,cloud,proxy
 host-suffix,cloudcone.com,proxy
 host-suffix,cloudflare-dns.com,proxy
 host-suffix,cloudflare-ipfs.com,proxy
+host-suffix,cloudflare.com,proxy
 host-suffix,cloudflarestatus.com,proxy
 host-suffix,cloudfunctions.net,proxy
 host-suffix,club,proxy
@@ -1328,6 +1329,7 @@ host-suffix,internetfreedom.org,proxy
 host-suffix,internetpopculture.com,proxy
 host-suffix,interseclab.org,proxy
 host-suffix,inthenameofconfuciusmovie.com,proxy
+host-suffix,investing.com,proxy
 host-suffix,inxian.com,proxy
 host-suffix,io,proxy
 host-suffix,ipdefenseforum.com,proxy
