@@ -127,6 +127,7 @@ host-suffix,cici.com,proxy
 host-suffix,ciciai.com,proxy
 host-suffix,ciciaicdn.com,proxy
 host-suffix,dola.com,proxy
+host-suffix,ingest.us.sentry.io,proxy
 host-suffix,usefathom.com,proxy
 host-suffix,intercomcdn.com,proxy
 host-suffix,datadoghq.com,proxy
