@@ -33,6 +33,7 @@ async def download_save(urls, name, raw=None):
         content = content.strip() + "\n" + "\n".join([r.strip() for r in raw])
     elif isinstance(raw, str):
         content = content.strip() + "\n" + raw.strip()
+    content = "\n".join(dict.fromkeys(line.strip() for line in content.splitlines() if line.strip()))
     write_list(content, name)
 
 
@@ -219,6 +220,11 @@ async def main():
         "geo/geosite/category-ai-!cn.list",
         "siteai",
         [
+            "+.anthropic.com",
+            "+.claude.ai",
+            "+.claude.com",
+            "+.claudeusercontent.com",
+            "+.ingest.us.sentry.io",
             "+.usefathom.com",
             "+.intercomcdn.com",
             "+.datadoghq.com",
