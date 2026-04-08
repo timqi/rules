@@ -589,6 +589,7 @@ host-suffix,cpj.org,proxy
 host-suffix,cpu-monkey.com,proxy
 host-suffix,cr,proxy
 host-suffix,crackle.com,proxy
+host-suffix,crashlytics.com,proxy
 host-suffix,crazypool.org,proxy
 host-suffix,crazyshit.com,proxy
 host-suffix,crbug.com,proxy
