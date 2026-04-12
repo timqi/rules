@@ -9,6 +9,7 @@ host-suffix,www.routerlogin.com,proxy
 host-suffix,tplogin.cn,proxy
 host-suffix,miwifi.com,proxy
 host-suffix,www.miwifi.com,proxy
+host-suffix,local.adguard.org,proxy
 host-suffix,internal,proxy
 host-suffix,localdomain,proxy
 host-suffix,example,proxy
@@ -123,6 +124,7 @@ host-suffix,8.e.f.ip6.arpa,proxy
 host-suffix,113.0.203.in-addr.arpa,proxy
 host-suffix,100.51.198.in-addr.arpa,proxy
 host-suffix,2.0.192.in-addr.arpa,proxy
+host-suffix,kis.v2.scr.kaspersky-labs.com,proxy
 host-suffix,255.255.255.255.in-addr.arpa,proxy
 host-suffix,8.b.d.0.1.0.0.2.ip6.arpa,proxy
 host-suffix,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,proxy
