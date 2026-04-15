@@ -87,7 +87,6 @@ host-suffix,ai,proxy
 host-suffix,aiosearch.com,proxy
 host-suffix,aiph.net,proxy
 host-suffix,airconsole.com,proxy
-host-suffix,aircrack-ng.org,proxy
 host-suffix,airitilibrary.com,proxy
 host-suffix,airvpn.org,proxy
 host-suffix,aiweiweiblog.com,proxy
@@ -1186,8 +1185,6 @@ host-suffix,hitbtc.com,proxy
 host-suffix,hiveon.net,proxy
 host-suffix,hk-pub.com,proxy
 host-suffix,hk01.com,proxy
-host-suffix,hkacg.com,proxy
-host-suffix,hkacg.net,proxy
 host-suffix,hkbookcity.com,proxy
 host-suffix,hkchronicles.com,proxy
 host-suffix,hkcnews.com,proxy
@@ -1701,7 +1698,6 @@ host-suffix,muzi.net,proxy
 host-suffix,mv,proxy
 host-suffix,mw,proxy
 host-suffix,mx,proxy
-host-suffix,mx981.com,proxy
 host-suffix,my,proxy
 host-suffix,myaudiocast.com,proxy
 host-suffix,mybet.com,proxy
