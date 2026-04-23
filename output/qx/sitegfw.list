@@ -195,6 +195,7 @@ host-suffix,asianage.com,proxy
 host-suffix,asianfanfics.com,proxy
 host-suffix,asiansexdiary.com,proxy
 host-suffix,asiaone.com,proxy
+host-suffix,asiasociety.org,proxy
 host-suffix,ask.com,proxy
 host-suffix,askstudent.com,proxy
 host-suffix,askynz.net,proxy
@@ -254,6 +255,7 @@ host-suffix,beevpn.com,proxy
 host-suffix,behance.net,proxy
 host-suffix,beijing1989.com,proxy
 host-suffix,beijingspring.com,proxy
+host-suffix,bellingcat.com,proxy
 host-suffix,berlintwitterwall.com,proxy
 host-suffix,best,proxy
 host-suffix,bestvpn.com,proxy
@@ -2087,6 +2089,7 @@ host-suffix,rateyourmusic.com,proxy
 host-suffix,rationalwiki.org,proxy
 host-suffix,rawgit.com,proxy
 host-suffix,rawgithub.com,proxy
+host-suffix,rawstory.com,proxy
 host-suffix,rd.com,proxy
 host-suffix,re,proxy
 host-suffix,reabble.com,proxy
@@ -2097,6 +2100,7 @@ host-suffix,realcourage.org,proxy
 host-suffix,realitykings.com,proxy
 host-suffix,reason.com,proxy
 host-suffix,recaptcha.net,proxy
+host-suffix,recordedfuture.com,proxy
 host-suffix,recoveryversion.org,proxy
 host-suffix,red,proxy
 host-suffix,red-lang.org,proxy
@@ -2128,6 +2132,7 @@ host-suffix,riseup.net,proxy
 host-suffix,rixcloud.com,proxy
 host-suffix,rlwlw.com,proxy
 host-suffix,ro,proxy
+host-suffix,roblox.com,proxy
 host-suffix,robustnessiskey.com,proxy
 host-suffix,rocket-inc.net,proxy
 host-suffix,rocks,proxy
@@ -2310,7 +2315,6 @@ host-suffix,south-plus.org,proxy
 host-suffix,southmongolia.org,proxy
 host-suffix,soy,proxy
 host-suffix,soylent.com,proxy
-host-suffix,soylentnews.org,proxy
 host-suffix,space,proxy
 host-suffix,spacex.com,proxy
 host-suffix,spankbang.com,proxy
