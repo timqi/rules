@@ -3840,3 +3840,6 @@ host-suffix,apple-dns.net,proxy
 host-suffix,icloud-content.com,proxy
 host-suffix,apple-studies.com,proxy
 host-suffix,mijia.tech,proxy
+host-suffix,argotunnel.com,proxy
+host-suffix,hf.co,proxy
+host-suffix,hf-mirror.com,proxy
