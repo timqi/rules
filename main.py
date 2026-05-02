@@ -201,6 +201,10 @@ async def main():
             "+.icloud-content.com",
             "+.apple-studies.com",
             "+.mijia.tech",
+
+            "+.argotunnel.com",
+            "+.hf.co",
+            "+.hf-mirror.com",
         ],
     )
 
