@@ -174,6 +174,10 @@ async def main():
         ]
     )
     sitegfw = simplify_gfw(sitegfw)
+    sitegfw += [
+            "+.push.apple.com",
+            "+.apns.apple.com",
+        ]
     write_list(sitegfw, "sitegfw")
 
     # cn
