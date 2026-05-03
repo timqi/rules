@@ -3091,3 +3091,5 @@ host-suffix,zvereff.com,proxy
 host-suffix,zw,proxy
 host-suffix,zynamics.com,proxy
 host-suffix,zyxel.com,proxy
+host-suffix,push.apple.com,proxy
+host-suffix,apns.apple.com,proxy
