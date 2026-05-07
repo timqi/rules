@@ -309,6 +309,7 @@ host-suffix,bl-doujinsouko.com,proxy
 host-suffix,blacked.com,proxy
 host-suffix,blackmagicdesign.com,proxy
 host-suffix,blackvpn.com,proxy
+host-suffix,bleepingcomputer.com,proxy
 host-suffix,blinkx.com,proxy
 host-suffix,blockcn.com,proxy
 host-suffix,blockedbyhk.com,proxy
@@ -338,6 +339,7 @@ host-suffix,boardreader.com,proxy
 host-suffix,bolehvpn.net,proxy
 host-suffix,boobstagram.com,proxy
 host-suffix,bookdepository.com,proxy
+host-suffix,boomplay.com,proxy
 host-suffix,bootstrapcdn.com,proxy
 host-suffix,borgenmagazine.com,proxy
 host-suffix,botanwang.com,proxy
@@ -548,6 +550,7 @@ host-suffix,cmoinc.org,proxy
 host-suffix,cmule.com,proxy
 host-suffix,cn-proxy.com,proxy
 host-suffix,cn.com,proxy
+host-suffix,cnbc.com,proxy
 host-suffix,cnd.org,proxy
 host-suffix,cnpolitics.org,proxy
 host-suffix,co,proxy
@@ -612,6 +615,7 @@ host-suffix,csis.org,proxy
 host-suffix,csmonitor.com,proxy
 host-suffix,ctinets.com,proxy
 host-suffix,ctinews.com,proxy
+host-suffix,ctinsider.com,proxy
 host-suffix,ctowc.org,proxy
 host-suffix,ctwant.com,proxy
 host-suffix,cu,proxy
@@ -748,6 +752,7 @@ host-suffix,ec,proxy
 host-suffix,economist.com,proxy
 host-suffix,edgecastcdn.net,proxy
 host-suffix,edgesuite.net,proxy
+host-suffix,edigest.hk,proxy
 host-suffix,edu,proxy
 host-suffix,edu.hk,proxy
 host-suffix,edubridge.com,proxy
@@ -802,6 +807,7 @@ host-suffix,euronews.com,proxy
 host-suffix,everipedia.org,proxy
 host-suffix,evozi.com,proxy
 host-suffix,evschool.net,proxy
+host-suffix,exchange,proxy
 host-suffix,exchristian.hk,proxy
 host-suffix,exhentai.org,proxy
 host-suffix,exmo.com,proxy
@@ -1432,6 +1438,7 @@ host-suffix,kanshifang.com,proxy
 host-suffix,kantie.org,proxy
 host-suffix,kaotic.com,proxy
 host-suffix,karayou.com,proxy
+host-suffix,kathmandupost.com,proxy
 host-suffix,kawase.com,proxy
 host-suffix,ke,proxy
 host-suffix,kebrum.com,proxy
@@ -1589,6 +1596,7 @@ host-suffix,meansys.com,proxy
 host-suffix,media,proxy
 host-suffix,mediachinese.com,proxy
 host-suffix,mediafreakcity.com,proxy
+host-suffix,mediamatters.org,proxy
 host-suffix,mediawiki.org,proxy
 host-suffix,medium.com,proxy
 host-suffix,megaproxy.com,proxy
@@ -1762,6 +1770,7 @@ host-suffix,newsmax.com,proxy
 host-suffix,newstamago.com,proxy
 host-suffix,newstapa.org,proxy
 host-suffix,newstatesman.com,proxy
+host-suffix,newstimes.com,proxy
 host-suffix,newsweek.com,proxy
 host-suffix,newthuhole.com,proxy
 host-suffix,newyorker.com,proxy
@@ -1772,6 +1781,7 @@ host-suffix,nflximg.com,proxy
 host-suffix,nflximg.net,proxy
 host-suffix,nflxso.net,proxy
 host-suffix,nflxvideo.net,proxy
+host-suffix,nfscofficial.com,proxy
 host-suffix,ng,proxy
 host-suffix,nhentai.net,proxy
 host-suffix,ni,proxy
@@ -1886,6 +1896,7 @@ host-suffix,otcbtc.com,proxy
 host-suffix,ourdearamy.com,proxy
 host-suffix,ourtv.hk,proxy
 host-suffix,overdaily.org,proxy
+host-suffix,overdrive.com,proxy
 host-suffix,overplay.net,proxy
 host-suffix,ovpn.com,proxy
 host-suffix,owltail.com,proxy
@@ -2452,7 +2463,9 @@ host-suffix,textnow.com,proxy
 host-suffix,tfiflve.com,proxy
 host-suffix,tg,proxy
 host-suffix,tg-me.com,proxy
+host-suffix,tgstat.com,proxy
 host-suffix,th,proxy
+host-suffix,the-sun.com,proxy
 host-suffix,theatlantic.com,proxy
 host-suffix,theatrum-belli.com,proxy
 host-suffix,thebcomplex.com,proxy
@@ -2479,6 +2492,7 @@ host-suffix,thestandnews.com,proxy
 host-suffix,thetatoken.org,proxy
 host-suffix,thetibetpost.com,proxy
 host-suffix,thetvdb.com,proxy
+host-suffix,theweek.com,proxy
 host-suffix,thewgo.org,proxy
 host-suffix,thewirechina.com,proxy
 host-suffix,theync.com,proxy
@@ -2623,6 +2637,7 @@ host-suffix,tv.com,proxy
 host-suffix,tvb.com,proxy
 host-suffix,tvbanywhere.com,proxy
 host-suffix,tvboxnow.com,proxy
+host-suffix,tvdy1.com,proxy
 host-suffix,tvunetworks.com,proxy
 host-suffix,tw,proxy
 host-suffix,tw-blog.com,proxy
@@ -2788,6 +2803,7 @@ host-suffix,vocaroo.com,proxy
 host-suffix,voicettank.org,proxy
 host-suffix,vot.org,proxy
 host-suffix,vovo2000.com,proxy
+host-suffix,vox.com,proxy
 host-suffix,voxer.com,proxy
 host-suffix,vpn.net,proxy
 host-suffix,vpn4all.com,proxy
@@ -2935,6 +2951,7 @@ host-suffix,workatruna.com,proxy
 host-suffix,workerempowerment.org,proxy
 host-suffix,works,proxy
 host-suffix,world,proxy
+host-suffix,worldjournal.com,proxy
 host-suffix,worldvpn.net,proxy
 host-suffix,wowgirls.com,proxy
 host-suffix,wowhead.com,proxy
