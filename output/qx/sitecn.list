@@ -2053,7 +2053,6 @@ host-suffix,jiayuan.com,proxy
 host-suffix,jiazhao.com,proxy
 host-suffix,jibencaozuo.com,proxy
 host-suffix,jidian.im,proxy
-host-suffix,jiedaibao.gs,proxy
 host-suffix,jiemeng8.com,proxy
 host-suffix,jiemian.com,proxy
 host-suffix,jikeiot.cloud,proxy
@@ -3808,7 +3807,6 @@ host-suffix,zzdtec.com,proxy
 host-suffix,analytics.strava.com,proxy
 host-suffix,blzddist1-a.akamaihd.net,proxy
 host-suffix,cdn.angruo.com,proxy
-host-suffix,cdn.lilyemby.com,proxy
 host-suffix,client.amplifi.com,proxy
 host-suffix,download.jetbrains.com,proxy
 host-suffix,download.microsoft.com,proxy
@@ -3818,10 +3816,8 @@ host-suffix,kc.kexinshe.com,proxy
 host-suffix,ntservicepack.microsoft.com,proxy
 host-suffix,origin-a.akamaihd.ne,proxy
 host-suffix,origin-a.akamaihd.net,proxy
-host-suffix,smart.uhdnow.com,proxy
 host-suffix,sms.imagetasks.com,proxy
 host-suffix,steamcommunity-a.akamaihd.net,proxy
-host-suffix,tx.lilyemby.com,proxy
 host-suffix,weixin.com,proxy
 host-suffix,www.libvideo.com,proxy
 host-suffix,www.yxssp.com,proxy
