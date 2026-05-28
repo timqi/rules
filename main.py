@@ -177,6 +177,18 @@ async def main():
     sitegfw += [
             "+.push.apple.com",
             "+.apns.apple.com",
+
+            # for apple
+            "+.icloud.com",
+            "+.itunes.com",
+            "+.apple.com",
+            "+.applemusic.com",
+            "+.omtrdc.net",
+            "+.cdn-apple.com",
+            "+.apple-dns.net",
+            "+.akadns.net",
+            "+.icloud-content.com",
+            "+.apple-studies.com",
         ]
     write_list(sitegfw, "sitegfw")
 
@@ -193,22 +205,13 @@ async def main():
             "+.live.com",
             "+.bing.com",
             "+.tushare.pro",
-            # for apple
-            "+.icloud.com",
-            "+.itunes.com",
-            "+.apple.com",
-            "+.applemusic.com",
-            "+.omtrdc.net",
-            "+.cdn-apple.com",
-            "+.apple-dns.net",
-            "+.akadns.net",
-            "+.icloud-content.com",
-            "+.apple-studies.com",
-            "+.mijia.tech",
 
             "+.argotunnel.com",
             "+.hf.co",
             "+.hf-mirror.com",
+
+            "+.mijia.tech",
+
         ],
     )
 
