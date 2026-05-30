@@ -552,7 +552,6 @@ host-suffix,cmoinc.org,proxy
 host-suffix,cmule.com,proxy
 host-suffix,cn-proxy.com,proxy
 host-suffix,cn.com,proxy
-host-suffix,cnbc.com,proxy
 host-suffix,cnd.org,proxy
 host-suffix,cnpolitics.org,proxy
 host-suffix,co,proxy
@@ -1005,6 +1004,7 @@ host-suffix,ge,proxy
 host-suffix,geek-art.net,proxy
 host-suffix,gekikame.com,proxy
 host-suffix,gelbooru.com,proxy
+host-suffix,gencraft.com,proxy
 host-suffix,genius.com,proxy
 host-suffix,getastrill.com,proxy
 host-suffix,getcloak.com,proxy
@@ -1181,6 +1181,7 @@ host-suffix,heyuedi.com,proxy
 host-suffix,hicairo.com,proxy
 host-suffix,hiccears.com,proxy
 host-suffix,hidden-advent.org,proxy
+host-suffix,hiddify.com,proxy
 host-suffix,hideipvpn.com,proxy
 host-suffix,hideman.net,proxy
 host-suffix,hidemyass.com,proxy
@@ -1695,6 +1696,7 @@ host-suffix,mp,proxy
 host-suffix,mpettis.com,proxy
 host-suffix,mpfinance.com,proxy
 host-suffix,mpinews.com,proxy
+host-suffix,mr,proxy
 host-suffix,mrtweet.com,proxy
 host-suffix,ms,proxy
 host-suffix,msa-it.org,proxy
@@ -2305,7 +2307,6 @@ host-suffix,socialblade.com,proxy
 host-suffix,socks-proxy.net,proxy
 host-suffix,sockslist.net,proxy
 host-suffix,socrec.org,proxy
-host-suffix,softether-download.com,proxy
 host-suffix,softether.org,proxy
 host-suffix,softfamous.com,proxy
 host-suffix,softlayer.net,proxy
@@ -3042,7 +3043,6 @@ host-suffix,yespornplease.com,proxy
 host-suffix,yeyeclub.com,proxy
 host-suffix,yhcw.net,proxy
 host-suffix,yibaochina.com,proxy
-host-suffix,yidio.com,proxy
 host-suffix,yigeni.com,proxy
 host-suffix,yimg.com,proxy
 host-suffix,yipub.com,proxy
