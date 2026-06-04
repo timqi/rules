@@ -182,7 +182,6 @@ host-suffix,gooogle.com,proxy
 host-suffix,gstatic-cn.com,proxy
 host-suffix,gstatic.com,proxy
 host-suffix,gsuite.com,proxy
-host-suffix,gv.com,proxy
 host-suffix,gvt0.com,proxy
 host-suffix,gvt1-cn.com,proxy
 host-suffix,gvt1.com,proxy
@@ -267,6 +266,7 @@ host-suffix,stxmosquitoproject.com,proxy
 host-suffix,stxmosquitoproject.net,proxy
 host-suffix,stxmosquitoproject.org,proxy
 host-suffix,synergyse.com,proxy
+host-suffix,tenor.com,proxy
 host-suffix,tensorflow.org,proxy
 host-suffix,thecleversense.com,proxy
 host-suffix,thegooglestore.com,proxy
@@ -281,13 +281,11 @@ host-suffix,usvimosquito.com,proxy
 host-suffix,usvimosquitoproject.com,proxy
 host-suffix,v8project.org,proxy
 host-suffix,velostrata.com,proxy
-host-suffix,verily.com,proxy
 host-suffix,verilylifesciences.com,proxy
 host-suffix,verilystudyhub.com,proxy
 host-suffix,verilystudywatch.com,proxy
 host-suffix,verilystudywatch.org,proxy
 host-suffix,wallet.com,proxy
-host-suffix,waymo.com,proxy
 host-suffix,waze.com,proxy
 host-suffix,webappfieldguide.com,proxy
 host-suffix,webmproject.org,proxy
