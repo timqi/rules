@@ -925,10 +925,11 @@ ip-cidr,81.68.0.0/14,direct
 ip-cidr,81.173.18.0/23,direct
 ip-cidr,81.173.20.0/22,direct
 ip-cidr,81.173.28.0/24,direct
+ip-cidr,82.108.198.0/23,direct
+ip-cidr,82.110.234.0/23,direct
 ip-cidr,82.156.0.0/15,direct
 ip-cidr,87.76.221.0/24,direct
 ip-cidr,87.76.222.0/24,direct
-ip-cidr,93.95.117.0/24,direct
 ip-cidr,94.191.0.0/17,direct
 ip-cidr,100.64.0.0/10,direct
 ip-cidr,101.0.0.0/22,direct
@@ -5496,7 +5497,6 @@ ip-cidr,203.217.164.0/22,direct
 ip-cidr,203.223.16.0/21,direct
 ip-cidr,204.52.191.0/24,direct
 ip-cidr,206.109.75.0/24,direct
-ip-cidr,207.180.22.0/24,direct
 ip-cidr,210.2.0.0/19,direct
 ip-cidr,210.5.0.0/19,direct
 ip-cidr,210.5.56.0/21,direct
