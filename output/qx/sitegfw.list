@@ -9,6 +9,7 @@ host-suffix,141jj.com,proxy
 host-suffix,173ng.com,proxy
 host-suffix,18board.com,proxy
 host-suffix,18comic.org,proxy
+host-suffix,18mh.net,proxy
 host-suffix,1984bbs.com,proxy
 host-suffix,1991way.com,proxy
 host-suffix,1e100.net,proxy
@@ -174,6 +175,7 @@ host-suffix,app,proxy
 host-suffix,appadvice.com,proxy
 host-suffix,appbrain.com,proxy
 host-suffix,appledaily.com,proxy
+host-suffix,appsflyersdk.com,proxy
 host-suffix,appshopper.com,proxy
 host-suffix,appsocks.net,proxy
 host-suffix,appspot.com,proxy
@@ -286,6 +288,7 @@ host-suffix,bibox.com,proxy
 host-suffix,bigjapanesesex.com,proxy
 host-suffix,bignews.org,proxy
 host-suffix,bigone.com,proxy
+host-suffix,bilinovel.com,proxy
 host-suffix,biliworld.com,proxy
 host-suffix,binance.com,proxy
 host-suffix,binance.org,proxy
@@ -973,7 +976,33 @@ host-suffix,funkyimg.com,proxy
 host-suffix,furbo.org,proxy
 host-suffix,furinkan.com,proxy
 host-suffix,furrybar.com,proxy
+host-suffix,futu.com,proxy
+host-suffix,futu0.com,proxy
+host-suffix,futu1.com,proxy
+host-suffix,futu2.com,proxy
+host-suffix,futu3.com,proxy
+host-suffix,futu4.com,proxy
+host-suffix,futu5.com,proxy
+host-suffix,futu6.com,proxy
+host-suffix,futu7.com,proxy
+host-suffix,futu8.com,proxy
+host-suffix,futu9.com,proxy
+host-suffix,futuau.com,proxy
+host-suffix,futuchain.com,proxy
+host-suffix,futuesop.com,proxy
+host-suffix,futufin.com,proxy
+host-suffix,futuhk.com,proxy
+host-suffix,futuhk2.com,proxy
+host-suffix,futuhkapp.com,proxy
+host-suffix,futuhn.com,proxy
+host-suffix,futuholdings.com,proxy
+host-suffix,futuinc.com,proxy
+host-suffix,futuniuniu.com,proxy
+host-suffix,futunn.com,proxy
 host-suffix,futuremessage.org,proxy
+host-suffix,futustatic.com,proxy
+host-suffix,fututrade.com,proxy
+host-suffix,fututrustee.com,proxy
 host-suffix,fxcm-chinese.com,proxy
 host-suffix,fxnetworks.com,proxy
 host-suffix,g-area.org,proxy
@@ -1043,6 +1072,7 @@ host-suffix,gitlab.net,proxy
 host-suffix,gizlen.net,proxy
 host-suffix,gjczz.com,proxy
 host-suffix,gl,proxy
+host-suffix,global,proxy
 host-suffix,globaljihad.net,proxy
 host-suffix,globalrescue.net,proxy
 host-suffix,globalvoices.org,proxy
@@ -1373,6 +1403,7 @@ host-suffix,italiatibet.org,proxy
 host-suffix,itasoftware.com,proxy
 host-suffix,itemfix.com,proxy
 host-suffix,itiger.com,proxy
+host-suffix,itigerup.com,proxy
 host-suffix,itshidden.com,proxy
 host-suffix,itweet.net,proxy
 host-suffix,iuhrdf.org,proxy
@@ -1490,11 +1521,14 @@ host-suffix,lagranepoca.com,proxy
 host-suffix,lamayeshe.com,proxy
 host-suffix,laogai.org,proxy
 host-suffix,laogairesearch.org,proxy
+host-suffix,laohu8.com,proxy
 host-suffix,laqingdan.net,proxy
 host-suffix,larsgeorge.com,proxy
 host-suffix,lastcombat.com,proxy
 host-suffix,lausan.hk,proxy
 host-suffix,lb,proxy
+host-suffix,lbctrl.com,proxy
+host-suffix,lbkrs.com,proxy
 host-suffix,ldplayer.net,proxy
 host-suffix,le-vpn.com,proxy
 host-suffix,leafyvpn.net,proxy
@@ -1545,6 +1579,11 @@ host-suffix,lmsys.org,proxy
 host-suffix,localbitcoins.com,proxy
 host-suffix,lockestek.com,proxy
 host-suffix,logmein.com,proxy
+host-suffix,longbridge.com,proxy
+host-suffix,longbridge.hk,proxy
+host-suffix,longbridgeapp.com,proxy
+host-suffix,longbridgehk.com,proxy
+host-suffix,longportapp.com,proxy
 host-suffix,longtermly.net,proxy
 host-suffix,longtoes.com,proxy
 host-suffix,lookpic.com,proxy
@@ -1685,6 +1724,9 @@ host-suffix,monster,proxy
 host-suffix,monster.com,proxy
 host-suffix,moodyz.com,proxy
 host-suffix,moomoo.com,proxy
+host-suffix,moomoobull.com,proxy
+host-suffix,moomooequity.com,proxy
+host-suffix,moomootrustee.com,proxy
 host-suffix,moonbbs.com,proxy
 host-suffix,moonbingo.com,proxy
 host-suffix,morningsun.org,proxy
@@ -1983,6 +2025,7 @@ host-suffix,pkqjiasu.com,proxy
 host-suffix,pkuanvil.com,proxy
 host-suffix,pl,proxy
 host-suffix,placemix.com,proxy
+host-suffix,play-analytics.com,proxy
 host-suffix,play-asia.com,proxy
 host-suffix,playboy.com,proxy
 host-suffix,playboyplus.com,proxy
@@ -2079,6 +2122,7 @@ host-suffix,pximg.net,proxy
 host-suffix,py,proxy
 host-suffix,qa,proxy
 host-suffix,qbittorrent.org,proxy
+host-suffix,qcloud.com,proxy
 host-suffix,qianglie.com,proxy
 host-suffix,qiangwaikan.com,proxy
 host-suffix,qiangyou.org,proxy
@@ -2203,6 +2247,7 @@ host-suffix,sb,proxy
 host-suffix,sc,proxy
 host-suffix,schema.org,proxy
 host-suffix,school,proxy
+host-suffix,schwab.com,proxy
 host-suffix,scmp.com,proxy
 host-suffix,scribd.com,proxy
 host-suffix,scriptspot.com,proxy
@@ -2554,6 +2599,10 @@ host-suffix,tibettelegraph.com,proxy
 host-suffix,tibettimes.net,proxy
 host-suffix,tibettruth.com,proxy
 host-suffix,tibetwrites.org,proxy
+host-suffix,tigerbbs.com,proxy
+host-suffix,tigerbrokers.com,proxy
+host-suffix,tigerbrokers.net,proxy
+host-suffix,tigerfintech.com,proxy
 host-suffix,tigervpn.com,proxy
 host-suffix,tiktok.com,proxy
 host-suffix,tiktokcdn-eu.com,proxy
@@ -2608,6 +2657,7 @@ host-suffix,totalvpn.com,proxy
 host-suffix,town,proxy
 host-suffix,tr,proxy
 host-suffix,tracfone.com,proxy
+host-suffix,tradeup.com,proxy
 host-suffix,tradingview.com,proxy
 host-suffix,transparency.org,proxy
 host-suffix,travel,proxy
@@ -2875,6 +2925,7 @@ host-suffix,wattpad.com,proxy
 host-suffix,waveprotocol.org,proxy
 host-suffix,waybig.com,proxy
 host-suffix,waymo.com,proxy
+host-suffix,wbrks.com,proxy
 host-suffix,wearn.com,proxy
 host-suffix,web2project.net,proxy
 host-suffix,webmproject.org,proxy
@@ -2993,6 +3044,7 @@ host-suffix,xfinity.com,proxy
 host-suffix,xgmyd.com,proxy
 host-suffix,xhamster.com,proxy
 host-suffix,xiaohexie.com,proxy
+host-suffix,xiaohu8.com,proxy
 host-suffix,xiaoma.org,proxy
 host-suffix,xiaxiaoqiang.net,proxy
 host-suffix,xicons.org,proxy
@@ -3095,6 +3147,7 @@ host-suffix,zhangzhehan.net,proxy
 host-suffix,zhanlve.org,proxy
 host-suffix,zhengjian.org,proxy
 host-suffix,zhengwunet.org,proxy
+host-suffix,zhijianfengyi.com,proxy
 host-suffix,zhongguotese.net,proxy
 host-suffix,zhongzidi.com,proxy
 host-suffix,zhuatieba.com,proxy
