@@ -1022,6 +1022,7 @@ host-suffix,gaopi.net,proxy
 host-suffix,garden,proxy
 host-suffix,gartlive.com,proxy
 host-suffix,garudalinux.org,proxy
+host-suffix,gate.com,proxy
 host-suffix,gatecoin.com,proxy
 host-suffix,gather.com,proxy
 host-suffix,gaywatch.com,proxy
@@ -1239,6 +1240,7 @@ host-suffix,hkfaa.com,proxy
 host-suffix,hkgalden.com,proxy
 host-suffix,hkgolden.com,proxy
 host-suffix,hkgpao.com,proxy
+host-suffix,hkong.hk,proxy
 host-suffix,hkopentv.com,proxy
 host-suffix,hkpeanut.com,proxy
 host-suffix,hkreporter.com,proxy
@@ -1485,6 +1487,7 @@ host-suffix,kenengba.com,proxy
 host-suffix,kepard.com,proxy
 host-suffix,kex.com,proxy
 host-suffix,keycdn.com,proxy
+host-suffix,kfor.com,proxy
 host-suffix,kg,proxy
 host-suffix,kh,proxy
 host-suffix,khatrimaza.org,proxy
@@ -1668,6 +1671,7 @@ host-suffix,mg,proxy
 host-suffix,mgoon.com,proxy
 host-suffix,mgstage.com,proxy
 host-suffix,mh4u.org,proxy
+host-suffix,mhwindow.org,proxy
 host-suffix,mi.com,proxy
 host-suffix,microsoft.com,proxy
 host-suffix,microvpn.com,proxy
@@ -1978,6 +1982,7 @@ host-suffix,pbs.org,proxy
 host-suffix,pbworks.com,proxy
 host-suffix,pbxes.com,proxy
 host-suffix,pbxes.org,proxy
+host-suffix,pcgamesn.com,proxy
 host-suffix,pcgamestorrents.com,proxy
 host-suffix,pcij.org,proxy
 host-suffix,pcloud.com,proxy
@@ -2185,6 +2190,7 @@ host-suffix,renyurenquan.org,proxy
 host-suffix,report,proxy
 host-suffix,resilio.com,proxy
 host-suffix,resistchina.org,proxy
+host-suffix,restofworld.org,proxy
 host-suffix,retweetrank.com,proxy
 host-suffix,reuters.com,proxy
 host-suffix,reutersmedia.net,proxy
@@ -2540,6 +2546,7 @@ host-suffix,thehansindia.com,proxy
 host-suffix,thehindu.com,proxy
 host-suffix,thehun.net,proxy
 host-suffix,theinitium.com,proxy
+host-suffix,theintercept.com,proxy
 host-suffix,thenewslens.com,proxy
 host-suffix,thepiratebay.org,proxy
 host-suffix,theporndude.com,proxy
@@ -2665,6 +2672,7 @@ host-suffix,travel,proxy
 host-suffix,trendsmap.com,proxy
 host-suffix,tritondigital.com,proxy
 host-suffix,tronscan.org,proxy
+host-suffix,trtworld.com,proxy
 host-suffix,truebuddha-md.org,proxy
 host-suffix,trustwallet.com,proxy
 host-suffix,truthsocial.com,proxy
@@ -2747,6 +2755,7 @@ host-suffix,twitturk.com,proxy
 host-suffix,twitturly.com,proxy
 host-suffix,twkan.com,proxy
 host-suffix,twreporter.org,proxy
+host-suffix,twstalker.com,proxy
 host-suffix,twtkr.com,proxy
 host-suffix,twttr.com,proxy
 host-suffix,tycool.com,proxy
@@ -2919,6 +2928,7 @@ host-suffix,wanz-factory.com,proxy
 host-suffix,warroom.org,proxy
 host-suffix,waselpro.com,proxy
 host-suffix,washingtonpost.com,proxy
+host-suffix,washingtontimes.com,proxy
 host-suffix,watch,proxy
 host-suffix,watchinese.com,proxy
 host-suffix,watchmygf.net,proxy

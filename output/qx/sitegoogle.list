@@ -52,6 +52,7 @@ host-suffix,charlestonroadregistry.com,proxy
 host-suffix,chrome.com,proxy
 host-suffix,chromebook.com,proxy
 host-suffix,chromecast.com,proxy
+host-suffix,chromestatus.com,proxy
 host-suffix,chromium.org,proxy
 host-suffix,chroniclesec.com,proxy
 host-suffix,cloudburstresearch.com,proxy
