@@ -177,6 +177,7 @@ async def main():
     sitegfw += [
             "+.push.apple.com",
             "+.apns.apple.com",
+            "+.chime.aws",
         ]
     write_list(sitegfw, "sitegfw")
 
