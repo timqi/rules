@@ -524,6 +524,7 @@ host-suffix,chromium.org,proxy
 host-suffix,ci,proxy
 host-suffix,cici.com,proxy
 host-suffix,ciciai.com,proxy
+host-suffix,circle19.org,proxy
 host-suffix,cirosantilli.com,proxy
 host-suffix,citizencn.com,proxy
 host-suffix,citizenlab.org,proxy
@@ -1480,6 +1481,7 @@ host-suffix,kanshifang.com,proxy
 host-suffix,kantie.org,proxy
 host-suffix,kaotic.com,proxy
 host-suffix,karayou.com,proxy
+host-suffix,kards.com,proxy
 host-suffix,kathmandupost.com,proxy
 host-suffix,kawase.com,proxy
 host-suffix,ke,proxy
