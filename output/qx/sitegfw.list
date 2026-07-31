@@ -1546,6 +1546,7 @@ host-suffix,left21.hk,proxy
 host-suffix,leisurepro.com,proxy
 host-suffix,lenwhite.com,proxy
 host-suffix,letscorp.net,proxy
+host-suffix,level-plus.net,proxy
 host-suffix,lhakar.org,proxy
 host-suffix,li,proxy
 host-suffix,liangyou.net,proxy
@@ -2173,6 +2174,7 @@ host-suffix,realcourage.org,proxy
 host-suffix,realitykings.com,proxy
 host-suffix,reason.com,proxy
 host-suffix,recaptcha.net,proxy
+host-suffix,recipes,proxy
 host-suffix,recordedfuture.com,proxy
 host-suffix,recoveryversion.org,proxy
 host-suffix,red,proxy
