@@ -5,6 +5,7 @@ host-suffix,265.com,proxy
 host-suffix,2mdn-cn.net,proxy
 host-suffix,2mdn.net,proxy
 host-suffix,466453.com,proxy
+host-suffix,actifio.com,proxy
 host-suffix,adgoogle.net,proxy
 host-suffix,admeld.com,proxy
 host-suffix,admob-cn.com,proxy
@@ -21,6 +22,7 @@ host-suffix,android.com,proxy
 host-suffix,androidify.com,proxy
 host-suffix,angulardart.org,proxy
 host-suffix,apigee.com,proxy
+host-suffix,app-ads-services.com,proxy
 host-suffix,app-analytics-services-att.com,proxy
 host-suffix,app-analytics-services.com,proxy
 host-suffix,app-measurement-cn.com,proxy
@@ -224,6 +226,7 @@ host-suffix,on2.com,proxy
 host-suffix,onefifteen.net,proxy
 host-suffix,onefifteen.org,proxy
 host-suffix,oneworldmanystories.com,proxy
+host-suffix,openxla.org,proxy
 host-suffix,orbitera.com,proxy
 host-suffix,pagespeedmobilizer.com,proxy
 host-suffix,panoramio.com,proxy
