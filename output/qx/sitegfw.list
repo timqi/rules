@@ -181,6 +181,7 @@ host-suffix,appsocks.net,proxy
 host-suffix,appspot.com,proxy
 host-suffix,aptoide.com,proxy
 host-suffix,ar,proxy
+host-suffix,arcgis.com,proxy
 host-suffix,archive-it.org,proxy
 host-suffix,archive.org,proxy
 host-suffix,archiveofourown.com,proxy
@@ -2187,6 +2188,7 @@ host-suffix,redditmedia.com,proxy
 host-suffix,redditspace.com,proxy
 host-suffix,redditstatic.com,proxy
 host-suffix,redhotlabs.com,proxy
+host-suffix,redteago.com,proxy
 host-suffix,reflectivecode.com,proxy
 host-suffix,reimu.net,proxy
 host-suffix,religionnews.com,proxy
