@@ -509,6 +509,7 @@ host-suffix,chinese-memorial.org,proxy
 host-suffix,chinesedailynews.com,proxy
 host-suffix,chinesedemocracy.com,proxy
 host-suffix,chinesegay.org,proxy
+host-suffix,chineseposters.net,proxy
 host-suffix,chineseradioseattle.com,proxy
 host-suffix,chineseupress.com,proxy
 host-suffix,chingcheong.com,proxy
@@ -1877,6 +1878,7 @@ host-suffix,nordstrom.com,proxy
 host-suffix,nordstromimage.com,proxy
 host-suffix,nordstromrack.com,proxy
 host-suffix,nordvpn.com,proxy
+host-suffix,note.com,proxy
 host-suffix,notepad-plus-plus.org,proxy
 host-suffix,nottinghampost.com,proxy
 host-suffix,now.com,proxy
