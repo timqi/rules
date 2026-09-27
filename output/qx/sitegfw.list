@@ -1099,6 +1099,7 @@ host-suffix,gmodules.com,proxy
 host-suffix,gmp4.com,proxy
 host-suffix,gmx.net,proxy
 host-suffix,gnews.org,proxy
+host-suffix,go-mpulse.net,proxy
 host-suffix,go141.com,proxy
 host-suffix,godaddy.com,proxy
 host-suffix,godfootsteps.org,proxy
@@ -2150,6 +2151,7 @@ host-suffix,qianglie.com,proxy
 host-suffix,qiangwaikan.com,proxy
 host-suffix,qiangyou.org,proxy
 host-suffix,qmp4.com,proxy
+host-suffix,qobuz.com,proxy
 host-suffix,qoos.com,proxy
 host-suffix,qstatus.com,proxy
 host-suffix,quakemachinex.com,proxy
@@ -2852,6 +2854,7 @@ host-suffix,va,proxy
 host-suffix,valeursactuelles.com,proxy
 host-suffix,vansky.com,proxy
 host-suffix,vatn.org,proxy
+host-suffix,vava8.com,proxy
 host-suffix,vc,proxy
 host-suffix,vcf-online.org,proxy
 host-suffix,vcfbuilder.org,proxy
