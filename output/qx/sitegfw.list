@@ -337,6 +337,7 @@ host-suffix,bloomberg.com,proxy
 host-suffix,bloombergview.com,proxy
 host-suffix,bloomfortune.com,proxy
 host-suffix,blubrry.com,proxy
+host-suffix,blue-plus.net,proxy
 host-suffix,bmdru.com,proxy
 host-suffix,bn,proxy
 host-suffix,bnbstatic.com,proxy
@@ -683,6 +684,7 @@ host-suffix,dev,proxy
 host-suffix,deviantart.com,proxy
 host-suffix,deviantart.net,proxy
 host-suffix,devpn.com,proxy
+host-suffix,dh.net,proxy
 host-suffix,diaoyuislands.org,proxy
 host-suffix,digisfera.com,proxy
 host-suffix,diigo.com,proxy
@@ -1193,6 +1195,7 @@ host-suffix,h-moe.com,proxy
 host-suffix,hackthatphone.net,proxy
 host-suffix,haijiao.com,proxy
 host-suffix,haiwaikan.com,proxy
+host-suffix,hanime1.com,proxy
 host-suffix,hanminzu.org,proxy
 host-suffix,hardsextube.com,proxy
 host-suffix,hautelook.com,proxy
@@ -1213,6 +1216,7 @@ host-suffix,helloqueer.com,proxy
 host-suffix,help,proxy
 host-suffix,helpeachpeople.com,proxy
 host-suffix,hembed.com,proxy
+host-suffix,hentaiclub.net,proxy
 host-suffix,heqinglian.net,proxy
 host-suffix,here.com,proxy
 host-suffix,heritage.org,proxy
@@ -1437,6 +1441,7 @@ host-suffix,japanhdv.com,proxy
 host-suffix,jav321.com,proxy
 host-suffix,javakiba.org,proxy
 host-suffix,javbus.com,proxy
+host-suffix,javchu.com,proxy
 host-suffix,javdb.com,proxy
 host-suffix,javhub.net,proxy
 host-suffix,javhuge.com,proxy
@@ -1459,6 +1464,7 @@ host-suffix,jingpin.org,proxy
 host-suffix,jintian.net,proxy
 host-suffix,jinx.com,proxy
 host-suffix,jitouch.com,proxy
+host-suffix,jkforum.net,proxy
 host-suffix,jm,proxy
 host-suffix,jmscult.com,proxy
 host-suffix,jo,proxy
@@ -1735,6 +1741,7 @@ host-suffix,modernchinastudies.org,proxy
 host-suffix,moe,proxy
 host-suffix,moeerolibrary.com,proxy
 host-suffix,moegirl.org,proxy
+host-suffix,moeli-desu.com,proxy
 host-suffix,mog.com,proxy
 host-suffix,mojim.com,proxy
 host-suffix,mondex.org,proxy
@@ -1808,6 +1815,7 @@ host-suffix,nanyangpost.com,proxy
 host-suffix,nationalawakening.org,proxy
 host-suffix,nationalinterest.org,proxy
 host-suffix,nationalreview.com,proxy
+host-suffix,nationthailand.com,proxy
 host-suffix,nationwide.com,proxy
 host-suffix,naughtyamerica.com,proxy
 host-suffix,naver.com,proxy
@@ -1818,6 +1826,7 @@ host-suffix,ncn.org,proxy
 host-suffix,ncol.com,proxy
 host-suffix,ndi.org,proxy
 host-suffix,ne,proxy
+host-suffix,ned.org,proxy
 host-suffix,nekoslovakia.net,proxy
 host-suffix,neo-miracle.com,proxy
 host-suffix,neoforged.net,proxy
@@ -2230,6 +2239,7 @@ host-suffix,roc-taiwan.org,proxy
 host-suffix,rocket-inc.net,proxy
 host-suffix,rocks,proxy
 host-suffix,rocksdb.org,proxy
+host-suffix,rocmgov.org,proxy
 host-suffix,rojo.com,proxy
 host-suffix,rolfoundation.org,proxy
 host-suffix,rolia.net,proxy
@@ -3121,6 +3131,7 @@ host-suffix,xvbelink.com,proxy
 host-suffix,xvideos-cdn.com,proxy
 host-suffix,xvideos.com,proxy
 host-suffix,xvinlink.com,proxy
+host-suffix,xx.net,proxy
 host-suffix,xxx,proxy
 host-suffix,xxx.com,proxy
 host-suffix,xxxymovies.com,proxy
