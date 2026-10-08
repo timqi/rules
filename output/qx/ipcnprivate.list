@@ -3189,7 +3189,6 @@ ip-cidr,117.128.0.0/14,direct
 ip-cidr,117.132.0.0/15,direct
 ip-cidr,117.134.0.0/17,direct
 ip-cidr,117.134.128.0/18,direct
-ip-cidr,117.134.207.0/24,direct
 ip-cidr,117.134.208.0/23,direct
 ip-cidr,117.134.212.0/23,direct
 ip-cidr,117.134.216.0/22,direct
