@@ -6,6 +6,8 @@ host-suffix,www.asusrouter.com,proxy
 host-suffix,oasisauth.h3c.com,proxy
 host-suffix,routerlogin.com,proxy
 host-suffix,www.routerlogin.com,proxy
+host-suffix,localhost.weixin.qq.com,proxy
+host-suffix,localhost.work.weixin.qq.com,proxy
 host-suffix,tplogin.cn,proxy
 host-suffix,miwifi.com,proxy
 host-suffix,www.miwifi.com,proxy
