@@ -218,6 +218,7 @@ host-suffix,atnext.com,proxy
 host-suffix,au,proxy
 host-suffix,audacy.com,proxy
 host-suffix,audio,proxy
+host-suffix,auth0.com,proxy
 host-suffix,autodraw.com,proxy
 host-suffix,avaaz.org,proxy
 host-suffix,avg.com,proxy
@@ -545,6 +546,8 @@ host-suffix,cl,proxy
 host-suffix,clashyun.com,proxy
 host-suffix,classicalguitarblog.net,proxy
 host-suffix,claude.com,proxy
+host-suffix,claudemcpcontent.com,proxy
+host-suffix,claudeusercontent.com,proxy
 host-suffix,clearsurance.com,proxy
 host-suffix,clementine-player.org,proxy
 host-suffix,click,proxy
