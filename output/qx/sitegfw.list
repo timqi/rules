@@ -2598,6 +2598,7 @@ host-suffix,thehindu.com,proxy
 host-suffix,thehun.net,proxy
 host-suffix,theinitium.com,proxy
 host-suffix,theintercept.com,proxy
+host-suffix,themoviedb.org,proxy
 host-suffix,thenewslens.com,proxy
 host-suffix,thepiratebay.org,proxy
 host-suffix,theporndude.com,proxy
@@ -2708,6 +2709,7 @@ host-suffix,toptoon.net,proxy
 host-suffix,torguard.net,proxy
 host-suffix,torlock.com,proxy
 host-suffix,torproject.org,proxy
+host-suffix,torrentleech.org,proxy
 host-suffix,torrentprivacy.com,proxy
 host-suffix,torrenty.org,proxy
 host-suffix,tortoisesvn.net,proxy
@@ -3191,6 +3193,7 @@ host-suffix,youtubeeducation.com,proxy
 host-suffix,youtubegaming.com,proxy
 host-suffix,youtubekids.com,proxy
 host-suffix,youversion.com,proxy
+host-suffix,youversionapi.com,proxy
 host-suffix,youwin.com,proxy
 host-suffix,ytimg.com,proxy
 host-suffix,yulghun.com,proxy
