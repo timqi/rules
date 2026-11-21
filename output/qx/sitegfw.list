@@ -571,6 +571,7 @@ host-suffix,cn-proxy.com,proxy
 host-suffix,cn.com,proxy
 host-suffix,cnd.org,proxy
 host-suffix,cnpolitics.org,proxy
+host-suffix,cnyes.com,proxy
 host-suffix,co,proxy
 host-suffix,cobinhood.com,proxy
 host-suffix,cochina.org,proxy
@@ -1032,7 +1033,6 @@ host-suffix,gab.com,proxy
 host-suffix,gabocorp.com,proxy
 host-suffix,gagaoolala.com,proxy
 host-suffix,galenwu.com,proxy
-host-suffix,game735.com,proxy
 host-suffix,ganjing.com,proxy
 host-suffix,ganjingworld.com,proxy
 host-suffix,gaoming.net,proxy
@@ -1256,11 +1256,14 @@ host-suffix,hk-pub.com,proxy
 host-suffix,hk01.com,proxy
 host-suffix,hkbookcity.com,proxy
 host-suffix,hkchronicles.com,proxy
+host-suffix,hkcitycreation.com,proxy
 host-suffix,hkcnews.com,proxy
 host-suffix,hkcoc.com,proxy
+host-suffix,hkcourtnews.com,proxy
 host-suffix,hkej.com,proxy
 host-suffix,hket.com,proxy
 host-suffix,hkfaa.com,proxy
+host-suffix,hkfeature.com,proxy
 host-suffix,hkgalden.com,proxy
 host-suffix,hkgolden.com,proxy
 host-suffix,hkgpao.com,proxy
@@ -1580,6 +1583,7 @@ host-suffix,liaowangxizang.net,proxy
 host-suffix,libertysculpturepark.com,proxy
 host-suffix,life,proxy
 host-suffix,lifemiles.com,proxy
+host-suffix,lifesitenews.com,proxy
 host-suffix,lightyearvpn.com,proxy
 host-suffix,lihkg.com,proxy
 host-suffix,like.com,proxy
@@ -1661,6 +1665,7 @@ host-suffix,martinoei.com,proxy
 host-suffix,martsangkagyuofficial.org,proxy
 host-suffix,marxist.net,proxy
 host-suffix,marxists.org,proxy
+host-suffix,master-insight.com,proxy
 host-suffix,matainja.com,proxy
 host-suffix,matome-plus.com,proxy
 host-suffix,matome-plus.net,proxy
@@ -1866,6 +1871,7 @@ host-suffix,newsweek.com,proxy
 host-suffix,newthuhole.com,proxy
 host-suffix,newyorker.com,proxy
 host-suffix,nexon.com,proxy
+host-suffix,nextapple.com,proxy
 host-suffix,nf,proxy
 host-suffix,nflxext.com,proxy
 host-suffix,nflximg.com,proxy
@@ -2013,6 +2019,7 @@ host-suffix,parler.com,proxy
 host-suffix,parse.com,proxy
 host-suffix,parsevideo.com,proxy
 host-suffix,passion.com,proxy
+host-suffix,passiontimes.hk,proxy
 host-suffix,pastie.org,proxy
 host-suffix,pathtosharepoint.com,proxy
 host-suffix,patreon.com,proxy
@@ -2156,6 +2163,7 @@ host-suffix,ptwxz.com,proxy
 host-suffix,pub,proxy
 host-suffix,puffinbrowser.com,proxy
 host-suffix,pugpig.com,proxy
+host-suffix,pulsehknews.com,proxy
 host-suffix,pure18.com,proxy
 host-suffix,pureapk.com,proxy
 host-suffix,pureconcepts.net,proxy
@@ -2336,6 +2344,7 @@ host-suffix,shadeyouvpn.com,proxy
 host-suffix,shadowsocks.com,proxy
 host-suffix,shadowsocks.org,proxy
 host-suffix,shafaqna.com,proxy
+host-suffix,shanghainationalparty.com,proxy
 host-suffix,sharecool.org,proxy
 host-suffix,shemalez.com,proxy
 host-suffix,shenyunperformingarts.org,proxy
@@ -2428,6 +2437,7 @@ host-suffix,sosreader.com,proxy
 host-suffix,sotwe.com,proxy
 host-suffix,soubory.com,proxy
 host-suffix,soulcaliburhentai.net,proxy
+host-suffix,soulogic.com,proxy
 host-suffix,soundcloud.com,proxy
 host-suffix,soundofhope.org,proxy
 host-suffix,south-plus.net,proxy
@@ -2587,6 +2597,7 @@ host-suffix,theblaze.com,proxy
 host-suffix,thebobs.com,proxy
 host-suffix,thebodyshop-usa.com,proxy
 host-suffix,thechinacollection.org,proxy
+host-suffix,thecollectivehk.com,proxy
 host-suffix,theconversation.com,proxy
 host-suffix,thedalailamamovie.com,proxy
 host-suffix,thediplomat.com,proxy
@@ -2601,16 +2612,19 @@ host-suffix,theinitium.com,proxy
 host-suffix,theintercept.com,proxy
 host-suffix,themoviedb.org,proxy
 host-suffix,thenewslens.com,proxy
+host-suffix,theonlinecitizen.com,proxy
 host-suffix,thepiratebay.org,proxy
 host-suffix,theporndude.com,proxy
 host-suffix,theportalwiki.com,proxy
 host-suffix,thestandnews.com,proxy
+host-suffix,thestar.com,proxy
 host-suffix,thetatoken.org,proxy
 host-suffix,thetibetpost.com,proxy
 host-suffix,thetvdb.com,proxy
 host-suffix,theweek.com,proxy
 host-suffix,thewgo.org,proxy
 host-suffix,thewirechina.com,proxy
+host-suffix,thewitnesshk.com,proxy
 host-suffix,theync.com,proxy
 host-suffix,thinkgeek.com,proxy
 host-suffix,thinkingtaiwan.com,proxy
@@ -3072,6 +3086,7 @@ host-suffix,wnacg.org,proxy
 host-suffix,woeser.com,proxy
 host-suffix,wokar.org,proxy
 host-suffix,wolfax.com,proxy
+host-suffix,womany.net,proxy
 host-suffix,woolyss.com,proxy
 host-suffix,wordpress.com,proxy
 host-suffix,work,proxy
